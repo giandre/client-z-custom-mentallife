@@ -221,11 +221,18 @@
           "placement": "inline"
         },
         {
+          "id": "text-2-2-1",
+          "type": "text",
+          "title": "Two Mindsets That Shape Your Life",
+          "content": "<p>Psychologist Carol Dweck introduced two core types of mindsets that shape how you approach challenges, setbacks, and growth. Explore them below.</p>",
+          "placement": "inline"
+        },
+        {
           "id": "int-2-2-flashcards-growth-vs-fixed",
           "type": "diverging-paths",
           "title": "Growth Mindset vs. Fixed Mindset",
           "placement": "after-section",
-          "sectionId": "video-2-2",
+          "sectionId": "text-2-2-1",
           "cards": [
             {
               "front": "(Positive) Growth Mindset",
