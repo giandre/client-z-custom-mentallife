@@ -1,0 +1,177 @@
+{
+  "id": "strategy-mentalife-2026",
+  "projectId": "TheMentalLife",
+  "createdAt": "2026-03-22",
+  "updatedAt": "2026-03-26",
+  "version": "2.0",
+
+  "courseTitle": "MentaLIFE: A Framework for Living a Happy, Healthy, High-Quality Life",
+  "courseSubtitle": "Transform Your Mindset, Manage Stress, and Build Lasting Wellness Habits",
+  "client": "z-custom",
+  "sourceType": "book-manuscript",
+  "contentStrategy": "preserve-fidelity",
+  "imageGenerationProvider": "comfyui-zimage",
+
+  "imageStrategy": {
+    "sourceHasImages": false,
+    "sourceImageLocation": "media/source-images",
+    "reviewSourceImages": false,
+    "reuseApprovedImages": false,
+    "generateForGapsOnly": false
+  },
+
+  "description": "Workshop-support wellness course based on Kelvin Pruitt's MentaLIFE framework. Designed as a companion to Kelvin's live workshops and conferences, the course reinforces key concepts through short Synthesia avatar videos (client-provided), practical reference tools from the book, and guided reflection. The framework covers three pillars (Mindset Growth, Stress Management, Healthy Habits & Routines) leading to three outcomes (Happiness, Healthiness, High-Quality Living). Structured as 4 zones with 12 video-driven sessions aligned to the Master Outline.",
+
+  "language": "en",
+
+  "courseRole": "Workshop supplement — reinforces concepts from live workshops, provides practical tools, and adds reflection depth. Not a standalone teaching course.",
+
+  "personas": [
+    {
+      "name": "The Workshop Attendee",
+      "description": "A corporate professional (25-55) who attended Kelvin's live workshop or conference presentation and wants to reinforce and apply what they learned.",
+      "goals": [
+        "Review the MentaLIFE framework at their own pace",
+        "Access practical tools for stress management and mindset growth",
+        "Build a personalized daily intentional living plan"
+      ],
+      "painPoints": [
+        "Workshop content fades quickly without reinforcement",
+        "Needs structured tools to translate concepts into daily habits",
+        "Limited time — needs concise, focused content"
+      ]
+    },
+    {
+      "name": "The Wellness Coordinator",
+      "description": "An HR or wellness professional (30-50) who booked Kelvin for their organization and wants to extend the impact beyond the live event.",
+      "goals": [
+        "Provide employees ongoing access to the MentaLIFE framework",
+        "Track completion through LMS integration (SCORM)",
+        "Support organizational wellness initiatives with structured content"
+      ],
+      "painPoints": [
+        "Live workshops are one-time events with limited follow-through",
+        "Needs LMS-compatible content for compliance tracking",
+        "Must justify wellness program ROI to leadership"
+      ]
+    }
+  ],
+
+  "targetAudience": {
+    "primary": [
+      "Conference and workshop attendees who saw Kelvin's live presentation",
+      "Working professionals in corporate wellness programs"
+    ],
+    "secondary": [
+      "HR and wellness coordinators seeking supplementary employee development content",
+      "Individuals seeking structured personal development frameworks"
+    ],
+    "prerequisites": "Recommended: attend Kelvin's live workshop first. The course reinforces rather than introduces concepts.",
+    "experienceLevel": "Beginner — all concepts are self-contained, but workshop attendance provides richer context"
+  },
+
+  "learningObjectives": [
+    "Explain the three MentaLIFE outcomes (Happiness, Healthiness, High-Quality Living) and the three core pillars (Stress Management, Mindset Growth, Healthy Habits & Routines)",
+    "Identify external, internal, and self-inflicted stress patterns and apply immediate deactivation strategies",
+    "Differentiate between growth and fixed mindsets and apply the 4-step Mindset Swap technique",
+    "Design a personalized Daily Intentional Living plan incorporating mindset habits, stress tools, and routine anchors"
+  ],
+
+  "instructionalApproach": {
+    "methodology": "Reinforcement learning with reflective practice. Short avatar videos introduce each concept (matching Kelvin's workshop style), followed by practical tools from the book and guided reflection. Document sections provide interactive reference materials (accordions, flashcards, tabs, scenario planners) for deeper application.",
+    "engagement": [
+      "Kelvin's Synthesia avatar videos — personal, direct delivery style",
+      "Guided self-reflection exercises with journaling prompts",
+      "Mindset Swap 4-step activity (identify → trace origin → reframe → act)",
+      "Stress deactivation flashcards for quick reference",
+      "Daily Intentional Living Planner (interactive commitment tool)",
+      "Foundational tools accordions for browsable reference"
+    ],
+    "assessmentStrategy": {
+      "formative": "Reflection prompts embedded in each lesson — non-graded journaling exercises that reinforce application",
+      "summative": "Wellness Checks after each zone (70% passing) — scenario-based questions testing application of concepts",
+      "practiceOpportunities": "Mindset Swap exercise, stress deactivation techniques, Daily Intentional Living Planner"
+    }
+  },
+
+  "contentStructure": {
+    "estimatedDuration": "60-75 minutes",
+    "zones": 4,
+    "totalItems": 12,
+    "videoCount": 12,
+    "documentCount": 0,
+    "conclusionVideo": 0,
+    "wellnessChecksPerZone": 1,
+    "zoneNames": [
+      "Zone 1: The MentaLIFE Framework Introduction (5 sessions)",
+      "Zone 2: MentaLIFE Pillar #1 — Mindset Growth (2 sessions)",
+      "Zone 3: Stress Management (2 sessions)",
+      "Zone 4: Healthy Routines and Habits (3 sessions)"
+    ]
+  },
+
+  "designNotes": {
+    "theme": {
+      "primary": "#2E7D6F",
+      "accent": "#E8A838",
+      "secondary": "#3A5A7C",
+      "background": "#FAFAF5",
+      "sidebar": "#2C3038",
+      "typography": "Lora (headings), Open Sans (body)",
+      "mood": "Warm, grounded, empowering — like a trusted mentor conversation"
+    },
+    "designConcept": "The Continuum — UI color-grading shifts from cool/gray to warm/saturated as learner progresses",
+    "branding": "MentaLIFE brand identity — wellness-forward, hopeful, evidence-based but accessible",
+    "accessibility": "WCAG 2.1 AA compliance required",
+    "terminology": {
+      "modules": "Zones",
+      "lessons": "Sessions",
+      "quizzes": "Wellness Checks",
+      "levels": ["Awakening", "Architect", "Builder", "Resident"]
+    },
+    "sensitivityNotes": [
+      "Mental health topic — use trauma-informed, non-judgmental language throughout",
+      "Author references Christian faith and Bible verses — present authentically but inclusively",
+      "Diverse audience — ensure examples and imagery reflect broad demographics",
+      "Avoid toxic positivity — the framework acknowledges struggle as part of growth"
+    ]
+  },
+
+  "existingAssets": {
+    "fromSource": [
+      "MENTALIFE MANUSCRIPT PAPERBACK.pdf — Complete 84-page book manuscript",
+      "10 ingested content chunks covering all 7 chapters + references",
+      "10 video scripts provided by Kelvin (Master Scripts Doc.pdf)",
+      "Meeting transcript with client direction (MeetingScript.txt)"
+    ],
+    "clientProvided": [
+      "10 Synthesia avatar videos (to be delivered by client)",
+      "MentaLIFE brand assets and logo"
+    ],
+    "toGenerate": [
+      "12 lesson content files aligned to Master Outline",
+      "Course imagery for document sections (wellness, mindset, nature themes)",
+      "Custom Continuum theme CSS",
+      "Reflection journal system (JS)",
+      "Course dashboard (index.html)"
+    ]
+  },
+
+  "metadata": {
+    "phase": "0-strategy",
+    "status": "complete",
+    "notes": [
+      "Source is a self-published book by wellness consultant Kelvin Pruitt (2024)",
+      "CRITICAL: Videos are client-provided Synthesia avatars — NOT platform-generated",
+      "Course is a workshop supplement — NOT a standalone teaching course",
+      "Workshops are Kelvin's primary revenue; course supports workshops",
+      "Kelvin's personal origin story, Blue Zones, Coach Sutherland content removed — covered in live workshops only",
+      "Three pillars = methods (Stress, Mindset, Habits); Three outcomes = results (Happiness, Healthiness, HQL)",
+      "Zone order follows Master Outline: Framework → Mindset → Stress → Habits",
+      "Target duration: ~1 hour (down from 2.4 hours in v1 strategy)",
+      "Kelvin has a conference April 21 — soft delivery target",
+      "Course designed to be modular — can expand later as revenue grows",
+      "Revised from v1 based on client meeting feedback (2026-03-26)"
+    ]
+  }
+}

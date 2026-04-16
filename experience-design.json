@@ -1,0 +1,378 @@
+{
+  "experienceMetaphor": {
+    "name": "The Blueprint Path",
+    "concept": "The course IS the mental health continuum, visualized as an atmospheric journey through a cinematic landscape. The learner follows a winding path from misty dawn (cool blues) through golden morning (brand blue + amber warmth) to a bright, open horizon (full warmth). As they progress, the UI warms — cool blues deepen to brand blue and then glow with amber and gold. The environment mirrors their internal transformation.",
+    "worldDescription": "A panoramic atmospheric landscape spanning the full mental wellness continuum. The left zone is a misty mountain trailhead at dawn with cool blue-gray tones — contemplative, still. The middle zones emerge as the path climbs through rolling hills, brand blue sky with amber light breaking through. The right zone is a sunlit open vista — warm golden light, a garden gate opening to possibility. The learner's position marker moves along this path as they complete zones.",
+    "emotionalArc": {
+      "beginning": "Cool dawn — 'Where am I on this continuum?' Honest, slightly uncomfortable self-recognition. The UI is muted, cool blues and soft grays. The learner sees the open horizon ahead but isn't there yet.",
+      "middle": "Clearing — 'I can see the path now.' Neuroplasticity and mindset work create visible breakthroughs. The UI deepens to brand blue with warm amber light emerging. The learner's position marker advances through the landscape.",
+      "end": "Full warmth — 'I live here now.' Stress tools and daily habits are in place. The UI glows with brand blue and golden amber. The thriving zone is where the learner's marker rests."
+    },
+    "corporatePositioning": "A structured, evidence-based mental wellness framework designed as a companion to Kelvin Pruitt's live workshops. Not self-help — a professional development tool for moving your workforce from surviving to thriving on the wellness continuum. Measurable progression. Research-backed content."
+  },
+
+  "visualIdentity": {
+    "colorPalette": {
+      "primary": "#4A7FB5",
+      "primaryLight": "#7BADE0",
+      "primaryDark": "#1D4E7A",
+      "accent": "#C4A35A",
+      "accentLight": "#E0D4A4",
+      "accentDark": "#8B7A3D",
+      "secondary": "#A2B9C7",
+      "secondaryLight": "#C0D3DD",
+      "secondaryDark": "#5A7A8C",
+      "charcoal": "#2A211C",
+      "slate": "#3D342E",
+      "semantic": {
+        "success": "#4A8B6B",
+        "warning": "#C4A35A",
+        "error": "#B85C5C",
+        "info": "#4A7FB5"
+      },
+      "continuum": {
+        "surviving": "#8A9099",
+        "survivingBg": "#E8EAED",
+        "existing": "#A2B9C7",
+        "existingBg": "#DEE8EE",
+        "clearing": "#4A7FB5",
+        "clearingBg": "#E0EBF5",
+        "thriving": "#1D4E7A",
+        "thrivingAccent": "#C4A35A",
+        "thrivingBg": "#F5F0E0"
+      },
+      "backgrounds": {
+        "primary": "#F8F9FB",
+        "secondary": "#F2F4F8",
+        "card": "#FFFFFF",
+        "sidebar": "#F2F4F8",
+        "hero": "#1D3A54",
+        "heroOverlay": "rgba(29, 58, 84, 0.65)"
+      },
+      "text": {
+        "primary": "#1A2332",
+        "secondary": "#4A5568",
+        "onDark": "#F5F2EE",
+        "onSidebar": "#1A2332",
+        "muted": "#718096",
+        "accent": "#8B7A3D"
+      }
+    },
+    "typography": {
+      "headingFont": "DM Serif Display",
+      "headingWeight": "400",
+      "bodyFont": "DM Sans",
+      "bodyWeight": "400",
+      "scale": {
+        "h1": "clamp(1.75rem, 4vw, 2.5rem)",
+        "h2": "clamp(1.5rem, 3vw, 1.875rem)",
+        "h3": "1.375rem",
+        "h4": "1.125rem",
+        "body": "1.063rem",
+        "small": "0.875rem",
+        "caption": "0.75rem"
+      },
+      "lineHeight": {
+        "heading": "1.3",
+        "body": "1.75",
+        "tight": "1.4"
+      },
+      "googleFonts": "https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&display=swap"
+    },
+    "imagery": {
+      "style": "Cinematic atmospheric landscape illustration with confident composition, atmospheric perspective, and volumetric lighting. Brand blue sky and warm amber-gold palette — cool blue dawns, golden horizons, amber accents. Rich narrative landscapes — not decorative, each image tells a story of journey, growth, and aspiration.",
+      "technique": "Digital illustration with cinematic depth of field, blue-to-amber color temperature shifts mirroring the continuum, atmospheric natural lighting, golden hour warmth for later zones, landscape compositions with paths, horizons, and open vistas",
+      "colorTreatment": "Continuum-aware: images for early lessons use cooler, more muted palettes with cool blue and gray tones. Images for later lessons use brand blue with warm amber and golden accents. The color temperature of imagery literally warms across the course.",
+      "mood": "Transitional — moving from contemplative and introspective (early) to warm, aspirational, and empowering (late). Never dark or heavy. Even the muted early images have a thread of warm golden light breaking through on the horizon.",
+      "composition": "Subject in upper 2/3 for overlay compatibility. Cinematic wide framing (16:9 for heroes, 3:2 for lesson headers). Path/journey compositions — winding trails, open gates, hilltop vistas. Natural and atmospheric framing (mountains, hills, lakes, gardens, sky).",
+      "avoid": [
+        "Text in images — local models cannot render text",
+        "Clinical or sterile medical imagery",
+        "Stock photo aesthetic or generic corporate",
+        "Overly abstract visuals disconnected from human experience",
+        "Religious imagery — faith is discussed but visuals stay inclusive",
+        "Toxic positivity — no forced smiles or shallow happiness imagery",
+        "Dark, heavy, or oppressive visuals — even the 'surviving' zone has hope in it"
+      ]
+    }
+  },
+
+  "toneAndVoice": {
+    "voice": "Mentor-Coach — Kelvin Pruitt's authentic voice as a trusted wellness guide who has walked the path himself. Personal, direct, honest about struggle, encouraging without being preachy.",
+    "voiceDescription": "Warm, grounded, personal. Speaks like a mentor who has been through it — not a professor lecturing from a distance. Uses second-person to bring the learner into the conversation. Occasionally references faith and gratitude naturally, never prescriptively.",
+    "tone": "Empowering and reflective — balances warmth with directness. Acknowledges struggle without dwelling in it. Moves quickly from 'here is the problem' to 'here is what you can do about it.' Never condescending, never dismissive, never toxic-positivity.",
+    "toneDescription": "The emotional register shifts across the continuum: early content is more contemplative and validating ('You are not alone in feeling this way'), middle content is energizing and challenging ('Your brain can literally rewire itself — but YOU have to do the work'), late content is warm and celebratory ('This is what thriving looks like — and you are building it right now').",
+    "formalityLevel": 2,
+    "person": "mixed",
+    "personUsage": "Second person ('you') as primary address. First person ('I') for Kelvin's personal stories. Third person for research citations and examples.",
+    "readingLevel": "8th-10th grade"
+  },
+
+  "terminologySubstitutions": [
+    { "instead": "module", "use": "zone", "rationale": "Reinforces the continuum metaphor — learners move through zones, not modules" },
+    { "instead": "lesson", "use": "session", "rationale": "Sessions feel participatory and personal, not academic" },
+    { "instead": "quiz", "use": "wellness check", "rationale": "Frames assessment as self-evaluation, not testing" },
+    { "instead": "final exam", "use": "MentaLIFE Mastery Assessment", "rationale": "Positions the final as a milestone, not a gatekeeping exam" },
+    { "instead": "progress", "use": "continuum position", "rationale": "Ties progression to the core metaphor" },
+    { "instead": "fail", "use": "not yet", "rationale": "Growth mindset language — failure is just 'not yet' in the MentaLIFE framework" },
+    { "instead": "student", "use": "learner", "rationale": "Learner implies active agency; student implies passive reception" },
+    { "instead": "correct answer", "use": "growth response", "rationale": "Frames right answers as growth-oriented choices" },
+    { "instead": "chapter", "use": "session", "rationale": "Avoids book-language; the course is an experience, not a reading" }
+  ],
+
+  "terminology": {
+    "course": "MentaLIFE",
+    "module": "Zone",
+    "lesson": "Session",
+    "quiz": "Wellness Check",
+    "finalExam": "MentaLIFE Mastery Assessment",
+    "progress": "Continuum Position",
+    "completion": "Zone Complete",
+    "lessonIntro": "Enter Session",
+    "quizSuccess": "Wellness Check Passed",
+    "quizFail": "Let's Revisit This Together",
+    "journalEntry": "Reflection Saved",
+    "zone1Name": "The Framework",
+    "zone2Name": "Mindset Growth",
+    "zone3Name": "Stress Management",
+    "zone4Name": "The Living Space"
+  },
+
+  "learnerJourney": {
+    "navigationModel": "linear-with-review",
+    "progressionType": "continuum-position",
+    "continuumSystem": {
+      "description": "A persistent horizontal bar showing the learner's position on the mental wellness continuum. Visible on every page in the sidebar. Gradient transitions from steel blue through brand blue to warm amber gold.",
+      "positions": {
+        "courseStart": 0,
+        "zone1Complete": 40,
+        "zone2Complete": 60,
+        "zone3Complete": 80,
+        "zone4Complete": 100
+      },
+      "visualEffect": "The page's overall CSS color-grading shifts based on continuum position. At 10%, background tones are cool steel blue. At 50%, brand blue begins to dominate with emerging warmth. At 100%, full warm palette with deep navy and amber gold. Achieved via CSS custom properties updated by JavaScript."
+    },
+    "levels": [
+      {
+        "id": "level-1",
+        "name": "Awakening",
+        "description": "Recognizing the continuum — understanding where you stand",
+        "badge": "eye-opening",
+        "color": "#A2B9C7",
+        "continuumZone": "surviving-to-existing",
+        "unlocksAt": "course-start"
+      },
+      {
+        "id": "level-2",
+        "name": "Architect",
+        "description": "Discovering the power of mindset and reshaping your thinking",
+        "badge": "neural-branch",
+        "color": "#4A7FB5",
+        "continuumZone": "existing-to-clearing",
+        "unlocksAt": "zone-1-complete"
+      },
+      {
+        "id": "level-3",
+        "name": "Builder",
+        "description": "Managing stress — deactivation tools and strategies in hand",
+        "badge": "rising-sun",
+        "color": "#1D4E7A",
+        "continuumZone": "clearing-to-building",
+        "unlocksAt": "zone-2-complete"
+      },
+      {
+        "id": "level-4",
+        "name": "Resident",
+        "description": "Living in the thriving zone — this is your home now",
+        "badge": "sun-full",
+        "color": "#C4A35A",
+        "continuumZone": "thriving",
+        "unlocksAt": "zone-4-complete"
+      }
+    ],
+    "motivationalMechanics": [
+      "Continuum position marker moves with each session completion — visible, satisfying progression",
+      "Page color grading warms as continuum position advances — steel blue to brand blue to warm amber gold",
+      "Reflective quotes from Kelvin appear at milestone transitions",
+      "Personal reflection journal persists across sessions — entries visible in sidebar",
+      "Level-up notifications tied to zone transitions",
+      "Wellness Check retries are unlimited — reinforces growth mindset ('not yet' instead of 'failed')"
+    ]
+  },
+
+  "dashboardDesign": {
+    "layout": "full-width immersive",
+    "description": "The dashboard IS the continuum landscape. A panoramic illustrated scene spans the full viewport width. Zone cards float above their respective areas.",
+    "heroSection": {
+      "type": "continuum-landscape",
+      "dimensions": "100vw x 400px (desktop), 100vw x 300px (mobile)",
+      "content": "Panoramic atmospheric landscape transitioning left-to-right through the wellness continuum. Cool blue dawn on the left, brand blue in the middle, warm amber-gold horizon on the right. A winding path connects all four zones.",
+      "interactivity": "Hovering over zones reveals zone cards. The marker position is driven by SCORM progress data."
+    },
+    "sections": [
+      { "id": "continuum-bar", "priority": 1, "description": "Persistent continuum landscape with position marker" },
+      { "id": "current-zone", "priority": 2, "description": "Current zone card — active zone, next session, level badge, Kelvin quote" },
+      { "id": "three-outcomes", "priority": 3, "description": "Three outcome pillars (Happiness, Healthiness, HQL) with progress fills" },
+      { "id": "reflection-journal", "priority": 4, "description": "Personal journal preview — recent reflection entries" },
+      { "id": "wellness-checks", "priority": 5, "description": "Zone Wellness Check scores summary" }
+    ],
+    "navigation": {
+      "type": "zone-cards-on-landscape",
+      "zoneCards": {
+        "zone1": { "position": "left-quarter", "zoneName": "The Framework", "zoneColor": "#A2B9C7" },
+        "zone2": { "position": "center-left", "zoneName": "Mindset Growth", "zoneColor": "#4A7FB5" },
+        "zone3": { "position": "center-right", "zoneName": "Stress Management", "zoneColor": "#1D4E7A" },
+        "zone4": { "position": "right-quarter", "zoneName": "The Living Space", "zoneColor": "#C4A35A" }
+      }
+    }
+  },
+
+  "lessonDesign": {
+    "header": {
+      "heroImage": {
+        "aspectRatio": "4:1",
+        "overlay": "gradient-bottom-to-top",
+        "overlayGradient": "linear-gradient(to top, rgba(42, 33, 28, 0.9) 0%, rgba(42, 33, 28, 0.4) 50%, transparent 100%)",
+        "description": "Each lesson hero is a cinematic urban-warm scene. Continuum-aware color temperature."
+      },
+      "breadcrumb": {
+        "format": "Zone name > Session name",
+        "style": "Small caps, DM Sans 600, muted text on dark overlay"
+      },
+      "title": {
+        "font": "DM Serif Display",
+        "weight": "700",
+        "size": "clamp(1.5rem, 3.5vw, 2.25rem)",
+        "color": "#F5F2EE"
+      }
+    },
+    "sidebar": {
+      "width": "280px",
+      "position": "fixed-left",
+      "background": "#F2F4F8",
+      "content": [
+        { "section": "continuum-mini", "description": "Compact horizontal continuum bar — gradient from steel blue to brand blue to amber gold" },
+        { "section": "level-badge", "description": "Current level name and badge icon" },
+        { "section": "zone-lessons", "description": "List of sessions in current zone with progress circles" },
+        { "section": "zone-progress", "description": "Zone completion percentage bar" },
+        { "section": "journal-peek", "description": "Last reflection entry preview" }
+      ],
+      "mobileCollapse": "Hamburger menu at top-left, sidebar slides in as overlay with backdrop blur"
+    },
+    "contentArea": {
+      "maxWidth": "720px",
+      "margin": "0 auto",
+      "padding": "2rem",
+      "readingFontSize": "17px",
+      "readingLineHeight": "1.75",
+      "paragraphSpacing": "1.5rem",
+      "sectionSpacing": "3rem"
+    },
+    "calloutStyles": [
+      {
+        "type": "key-insight",
+        "icon": "lightbulb",
+        "borderColor": "#C4A35A",
+        "backgroundColor": "#FAF6EC",
+        "title": "Key Insight"
+      },
+      {
+        "type": "science",
+        "icon": "beaker",
+        "borderColor": "#A2B9C7",
+        "backgroundColor": "#EDF2F5",
+        "title": "The Science Says"
+      },
+      {
+        "type": "quote",
+        "icon": "quote",
+        "borderColor": "#1D4E7A",
+        "backgroundColor": "#E8EEF5",
+        "title": "Words to Live By",
+        "description": "Memorable quotes from the book. Larger italic serif text."
+      },
+      {
+        "type": "statistic",
+        "icon": "chart-bar",
+        "borderColor": "#8B7A3D",
+        "backgroundColor": "#FAF6EC",
+        "title": "By the Numbers"
+      },
+      {
+        "type": "reflection",
+        "icon": "pencil",
+        "borderColor": "#4A7FB5",
+        "backgroundColor": "#E8F0F8",
+        "title": "Pause & Reflect",
+        "description": "Interactive reflection prompts with text input. Entries persist to journal via localStorage/SCORM."
+      }
+    ],
+    "contentBlockTransitions": {
+      "style": "Subtle section separators — thin horizontal line with small geometric accent centered.",
+      "animation": "Gentle fade-in on scroll (IntersectionObserver), respects prefers-reduced-motion"
+    }
+  },
+
+  "mediaStyleGuide": {
+    "basePrompt": "Cinematic atmospheric landscape digital illustration with confident composition, atmospheric perspective, volumetric lighting, brand blue and warm amber-gold palette with cool blues and golden warmth, narrative landscape that tells a story of journey and aspiration, subjects positioned in upper two-thirds of frame for overlay compatibility, natural and atmospheric compositions with paths horizons and open vistas, no text in image",
+    "negativePrompt": "text, words, letters, typography, numbers, logos, clinical, sterile, stock photo, generic corporate, dark oppressive mood, religious symbols, forced smiles, toxic positivity, anime, cartoon, 3D render, photorealistic, bright saturated neon colors",
+    "diversityRequirements": {
+      "mandatory": true,
+      "rotation": "African American, Hispanic American, East Asian American, Caucasian American, South Asian American, Native American, multiracial American",
+      "context": "American professional work attire. No cultural dress assumptions. Alternate gender, ethnicity, age, and body type across all generated images.",
+      "notes": "The book's author is Black — ensure representation reflects his community authentically while maintaining broad diversity."
+    }
+  },
+
+  "interactionPatterns": {
+    "preferredComponents": [
+      { "type": "accordion", "frequency": "1-2 per document lesson", "designNotes": "Smooth expand animation. Each item header has an icon." },
+      { "type": "tabs", "frequency": "1 per document lesson", "designNotes": "Tab panels have subtly different background washes." },
+      { "type": "timeline", "frequency": "As needed for step-by-step content", "designNotes": "Vertical path with connected nodes." },
+      { "type": "flashcards", "frequency": "1 per document lesson", "designNotes": "Card flip animation. Front uses accent header, back uses primary." },
+      { "type": "scenario", "frequency": "1 in final document lesson", "designNotes": "Daily Intentional Living Planner — learner selects commitments." },
+      { "type": "reflection-journal", "frequency": "1-2 per lesson (video and document)", "designNotes": "Textarea with warm cream background, DM Serif Display italic placeholder. Saves to journal." }
+    ],
+    "assessmentPhilosophy": {
+      "formative": "Non-graded reflection checks. No score, no red/green. Reflective feedback only.",
+      "summative": "Zone Wellness Checks (70% passing) with scenario-based application questions. Unlimited retries.",
+      "questionTypes": ["multiple-choice", "multiple-select", "true-false", "scenario-judgment"],
+      "bloomsDistribution": { "remember-understand": "30%", "apply-analyze": "50%", "evaluate-create": "20%" }
+    }
+  },
+
+  "accessibilityRequirements": {
+    "standard": "WCAG 2.1 AA",
+    "colorContrast": { "normalText": "4.5:1 minimum", "largeText": "3:1 minimum" },
+    "keyboardNavigation": { "enabled": true, "focusIndicator": "3px solid #C4A35A, offset 2px", "skipLink": "Skip to main content" },
+    "motionPreference": "All animations respect prefers-reduced-motion.",
+    "readability": { "maxWidth": "720px", "lineHeight": "1.75", "fontSize": "17px minimum" }
+  },
+
+  "responsiveDesign": {
+    "breakpoints": { "mobile": "<640px", "tablet": "640-1024px", "desktop": ">1024px" },
+    "mobileAdaptations": [
+      "Sidebar collapses to hamburger menu with slide-in overlay + backdrop blur",
+      "Continuum bar becomes compact strip (80px height) at page top",
+      "Interactive components stack vertically",
+      "44px minimum tap targets on all interactive elements"
+    ]
+  },
+
+  "technicalRequirements": {
+    "baseTemplate": "professional-modern",
+    "scormVersion": "2004-4th",
+    "tracking": ["lesson-completion", "quiz-scores", "time-spent", "bookmarks", "continuum-position", "journal-entries", "interaction-completion"],
+    "cssArchitecture": {
+      "files": [
+        "base.css — resets, typography, spacing tokens, CSS custom properties",
+        "theme-mentalife.css — blue/amber-gold color system, continuum color-grading variables",
+        "lesson.css — lesson layout, hero, sidebar, content area",
+        "components.css — callouts (5 types), interactives, cards, badges",
+        "continuum.css — landscape bar, position marker, color-grading transitions",
+        "video-player.css — video embed and overlay styling",
+        "journal.css — reflection input fields, journal view"
+      ]
+    }
+  }
+}

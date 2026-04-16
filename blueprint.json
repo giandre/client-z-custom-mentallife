@@ -1,0 +1,488 @@
+{
+  "id": "blueprint-mentalife-v4-2026",
+  "projectId": "TheMentalLife",
+  "createdAt": "2026-04-06",
+  "version": "4.0",
+  "designConcept": "The Continuum",
+  "revisedFrom": "blueprint-v3-revised.json",
+  "revisionReason": "Restructured to match client's Master Outline (MentaLIFE Wellness Course Master Outline.docx). Zones 2/3 swapped (Mindset → Zone 2, Stress → Zone 3). Zone 1 expanded with Mental Health Continuum + stress intro. Three outcome videos merged into one.",
+
+  "projectMeta": {
+    "trainingType": "personal-development",
+    "trainingTypePreset": "wellness",
+    "contentFormat": "video-plus-document",
+    "primaryLanguage": "en",
+    "localizationRequired": false,
+    "targetLanguages": [],
+    "lessonCount": 12,
+    "videoCount": 12,
+    "documentCount": 0,
+    "videoSource": "client-provided (Synthesia avatars)",
+    "estimatedDuration": "60-75 minutes"
+  },
+
+  "designPhilosophy": {
+    "concept": "The Continuum",
+    "metaphor": "The course IS the mental health continuum — a living landscape that shifts from gray survival to vibrant thriving as the learner progresses",
+    "learnerRole": "A corporate professional reinforcing wellness concepts from a live workshop",
+    "courseRole": "Workshop supplement — reinforces key concepts, provides practical tools, and adds reflection depth beyond the live experience",
+    "progressionSystem": {
+      "type": "continuum-position",
+      "levels": ["Awakening (0-20%)", "Architect (20-40%)", "Builder (40-70%)", "Resident (70-100%)"],
+      "visualEffect": "Page color-grading warms with progression — desaturated cool tones evolve to saturated warm sage and dusty rose"
+    }
+  },
+
+  "targetAudience": {
+    "jobRoles": [
+      "Working professionals in corporate wellness programs",
+      "Conference attendees who saw Kelvin's live workshop",
+      "HR and wellness coordinators",
+      "Individuals seeking structured personal development"
+    ],
+    "departments": ["Human Resources", "Employee Wellness", "Learning & Development"],
+    "jobLevel": "all",
+    "priorKnowledge": "Attendees have seen Kelvin's live workshop overview — this course goes deeper on each topic"
+  },
+
+  "courseStructure": {
+    "id": "course-mentalife",
+    "title": "MentaLIFE: A Framework for Living a Happy, Healthy, High-Quality Life",
+    "description": "A concise, video-driven wellness course that reinforces the MentaLIFE framework through short concept videos, practical reference tools, and guided reflection — designed as a companion to Kelvin Pruitt's live workshops.",
+    "totalDuration": "60-75 minutes",
+    "learningOutcomes": [
+      "Explain the three MentaLIFE outcomes (Happiness, Healthiness, High-Quality Living) and the three core pillars (Mindset Growth, Stress Management, Healthy Habits & Routines)",
+      "Describe the mental health continuum and identify where you currently exist on it",
+      "Differentiate between real and perceived stressors and understand their impact on the body",
+      "Apply mindset growth strategies including the 4-step Mindset Swap technique",
+      "Identify self-inflicted stress patterns and apply relief strategies and foundational tools",
+      "Design a personalized daily intentional living plan incorporating mindset habits, stress tools, and routine anchors"
+    ]
+  },
+
+  "modules": [
+    {
+      "id": "zone-1",
+      "title": "The MentaLIFE Framework Introduction",
+      "zoneName": "The Framework",
+      "continuumZone": "surviving-to-existing",
+      "zoneColor": "#A2B9C7",
+      "colorTemperature": "cool mist — dusty blue tones, contemplative stillness",
+      "description": "Meet the MentaLIFE framework, understand the three outcomes, explore the mental health continuum, and learn how stress works in your body and mind.",
+      "duration": "20-25 minutes",
+      "continuumAdvance": "0% → 40%",
+      "levelTransition": "Awakening → Architect",
+      "learningOutcomes": [
+        "Describe the MentaLIFE mission and the three core pillars",
+        "Define happiness, healthiness, and high-quality living as intentional outcomes",
+        "Explain the mental health continuum and identify your current position",
+        "Describe the stress response system and understand why perception matters",
+        "Differentiate between real and perceived stressors"
+      ],
+      "lessons": [
+        {
+          "id": "lesson-1-1",
+          "title": "Introduction to the MentaLIFE Framework",
+          "type": "video",
+          "duration": 5,
+          "videoSource": "client-synthesia",
+          "videoScript": "Zone 1 — Introduction to MentaLIFE Framework",
+          "continuumPosition": "0-8%",
+          "objectives": [
+            "Explain the MentaLIFE mission: guiding people toward happy, healthy, high-quality living",
+            "Identify the three core pillars: Mindset Growth, Stress Management, Healthy Habits & Routines",
+            "Recognize the role of journaling and reflection in the wellness journey"
+          ],
+          "suggestedActivities": [
+            "Guided reflection: Three Questions to Start Your Journey",
+            "Journaling prompt: Which pillar needs strengthening and why"
+          ],
+          "contentBlocks": [
+            { "type": "video-embed", "id": "video-1-1", "title": "Introduction to the MentaLIFE Framework", "designNotes": "Client-provided Synthesia avatar video. Introduces mission, three pillars, reflection questions, journaling encouragement." },
+            { "type": "callout", "id": "callout-1-1-1", "variant": "reflection", "title": "Three Questions to Start Your Journey", "designNotes": "From video: Do I believe I can achieve mental wellness? Am I being intentional about building it? Which pillar do I need to strengthen most?" }
+          ]
+        },
+        {
+          "id": "lesson-1-2",
+          "title": "MentaLIFE Outcomes: Happiness, Health & High-Quality Living",
+          "type": "video",
+          "duration": 8,
+          "videoSource": "client-synthesia",
+          "videoScript": "Zone 1 — MentaLIFE Outcomes",
+          "continuumPosition": "8-18%",
+          "objectives": [
+            "Define happiness as a sustained emotional state built through intention",
+            "Recognize that mental, emotional, and physical well-being are interconnected",
+            "Define high-quality living as the result of intentional daily choices",
+            "Rate your current level of happiness, health, and quality of life"
+          ],
+          "suggestedActivities": [
+            "Self-assessment: Rate current happiness, health, and quality of life (1-10)",
+            "Reflection: Which MentaLIFE outcome needs the most attention right now"
+          ],
+          "contentBlocks": [
+            { "type": "video-embed", "id": "video-1-2", "title": "MentaLIFE Outcomes", "designNotes": "Client-provided Synthesia video covering all three outcomes: Happiness, Healthiness, and High-Quality Living in one unified presentation." },
+            { "type": "callout", "id": "callout-1-2-1", "variant": "reflection", "title": "Rate Your Current Well-Being", "designNotes": "Self-assessment: Rate your current happiness, health, and quality of life on a scale of 1-10. Which area needs the most attention?" }
+          ]
+        },
+        {
+          "id": "lesson-1-3",
+          "title": "Mental Wellness & The Mental Health Continuum",
+          "type": "video",
+          "duration": 6,
+          "videoSource": "client-synthesia",
+          "videoScript": "Zone 1 — The Mental Health Continuum",
+          "continuumPosition": "18-26%",
+          "objectives": [
+            "Define mental wellness as the foundation of overall well-being",
+            "Describe the mental health continuum from surviving to thriving",
+            "Identify where you currently exist on the mental health continuum"
+          ],
+          "suggestedActivities": [
+            "Pause & Reflect: Place yourself on the mental health continuum",
+            "Journaling: What would it take to move one step forward"
+          ],
+          "contentBlocks": [
+            { "type": "video-embed", "id": "video-1-3", "title": "The Mental Health Continuum", "designNotes": "Client-provided Synthesia video. Introduces mental wellness concept and the continuum model from surviving through thriving." },
+            { "type": "callout", "id": "callout-1-3-1", "variant": "reflection", "title": "Where Do You Exist on the Continuum?", "designNotes": "Pause & Reflect: Where do you generally exist on the mental health continuum? What would it take to move one step forward?" }
+          ]
+        },
+        {
+          "id": "lesson-1-4",
+          "title": "The Science and Impacts of Stress",
+          "type": "video",
+          "duration": 6,
+          "videoSource": "client-synthesia",
+          "videoScript": "Zone 1 — The Science and Impacts of Stress",
+          "continuumPosition": "26-34%",
+          "objectives": [
+            "Describe the stress response system (perceived threat → hormones → fight/flee/freeze)",
+            "Understand why unmanaged chronic stress erodes well-being",
+            "Recognize how stress shows up in the workplace"
+          ],
+          "suggestedActivities": [
+            "Reflection: How is stress currently showing up in your life and workplace",
+            "Knowledge check: Match stress response stages to their effects"
+          ],
+          "contentBlocks": [
+            { "type": "video-embed", "id": "video-1-4", "title": "The Science and Impacts of Stress", "designNotes": "Client-provided Synthesia video. Stress biology, perception, chronic activation danger, workplace implications." },
+            { "type": "callout", "id": "callout-1-4-1", "variant": "reflection", "title": "How Is Stress Showing Up in Your Life?", "designNotes": "Context: Stress in the Workplace section + reflection on personal stress impact." }
+          ]
+        },
+        {
+          "id": "lesson-1-5",
+          "title": "Real vs. Perceived Stress",
+          "type": "video",
+          "duration": 6,
+          "videoSource": "client-synthesia",
+          "videoScript": "Zone 1 — Real vs Perceived Stress",
+          "continuumPosition": "34-40%",
+          "objectives": [
+            "Differentiate between real stressors and perceived stressors",
+            "Identify examples of real and perceived stressors in your own life",
+            "Recognize that perception — shaped by mindset — determines your stress experience"
+          ],
+          "suggestedActivities": [
+            "Self-reflection: Identify one real and one perceived stressor in your life",
+            "Wellness Check: Zone 1 knowledge assessment (6 questions)"
+          ],
+          "contentBlocks": [
+            { "type": "video-embed", "id": "video-1-5", "title": "Real vs. Perceived Stress", "designNotes": "Client-provided Synthesia video. Real vs perceived stress, examples, the 90/10 rule." },
+            { "type": "callout", "id": "callout-1-5-1", "variant": "reflection", "title": "Identifying Your Stressors", "designNotes": "Self-reflection: Identify one real stressor and one perceived stressor you are currently experiencing. How does your perception shape your reaction?" }
+          ]
+        }
+      ],
+      "zoneAssessment": {
+        "id": "quiz-zone-1",
+        "title": "Wellness Check: The Framework",
+        "questionCount": 6,
+        "passingScore": 70,
+        "designNotes": "Concept check: three pillars, outcomes, mental health continuum placement, stress basics, real vs perceived. 3 minutes."
+      }
+    },
+    {
+      "id": "zone-2",
+      "title": "MentaLIFE Pillar #1: Mindset Growth",
+      "zoneName": "Mindset Growth",
+      "continuumZone": "existing-to-clearing",
+      "zoneColor": "#87A38D",
+      "colorTemperature": "transitional — sage emerging through the mist",
+      "description": "Discover how your mindset shapes every aspect of your life. Learn the difference between growth and fixed mindsets, understand neuroplasticity, and practice practical strategies for rewiring your thinking.",
+      "duration": "15-18 minutes",
+      "continuumAdvance": "40% → 60%",
+      "levelTransition": "Architect → Builder",
+      "learningOutcomes": [
+        "Define mindset and micro-mindsets and their role in daily life",
+        "Identify toxic mindsets and understand their origins",
+        "Differentiate between growth and fixed mindsets using Carol Dweck's framework",
+        "Apply the Mindset Swap technique and daily mindset growth tools"
+      ],
+      "lessons": [
+        {
+          "id": "lesson-2-1",
+          "title": "The Power of Mindset",
+          "type": "video",
+          "duration": 6,
+          "videoSource": "client-synthesia",
+          "videoScript": "Zone 2 — The Power of Mindset",
+          "continuumPosition": "40-50%",
+          "objectives": [
+            "Define mindset as beliefs, attitudes, and assumptions that shape how you live",
+            "Recognize micro-mindsets and how they influence specific situations",
+            "Understand that neuroplasticity means your mindset can change",
+            "Identify toxic mindsets in your own life"
+          ],
+          "suggestedActivities": [
+            "Pause & Reflect: Identify toxic mindsets influencing your decisions",
+            "Journaling: Trace the origins of your limiting beliefs"
+          ],
+          "contentBlocks": [
+            { "type": "video-embed", "id": "video-2-1", "title": "The Power of Mindset", "designNotes": "Client-provided Synthesia video. Mindset definition, micro-mindsets, positive vs negative, neuroplasticity." },
+            { "type": "callout", "id": "callout-2-1-1", "variant": "reflection", "title": "Identifying Toxic Mindsets", "designNotes": "Pause & Reflection: What toxic or limiting mindsets have been influencing your decisions? Where did they come from?" }
+          ]
+        },
+        {
+          "id": "lesson-2-2",
+          "title": "Mindset Growth Strategies",
+          "type": "video",
+          "duration": 10,
+          "videoSource": "client-synthesia",
+          "videoScript": "Zone 2 — Mindset Growth Strategies",
+          "continuumPosition": "50-60%",
+          "objectives": [
+            "Differentiate between growth and fixed mindsets",
+            "Apply the 4-step Mindset Swap technique to reframe a limiting belief",
+            "Identify at least 3 daily mindset growth tools to practice",
+            "Select specific strategies to commit to this week"
+          ],
+          "suggestedActivities": [
+            "Interactive timeline: 4-Step Mindset Swap technique walkthrough",
+            "Interactive accordion: 10 Daily Mindset Growth Tools",
+            "Self-reflection: Select 2-3 strategies to commit to this week",
+            "Wellness Check: Zone 2 knowledge assessment (6 questions)"
+          ],
+          "contentBlocks": [
+            { "type": "video-embed", "id": "video-2-2", "title": "Mindset Growth Strategies", "designNotes": "Client-provided Synthesia video. Growth vs fixed mindset, Carol Dweck, strategy descriptions." },
+            { "type": "callout", "id": "callout-2-2-1", "variant": "reflection", "title": "Selecting Strategies to Practice", "designNotes": "Self-Reflection: From the strategies presented, which 2-3 will you commit to practicing this week? What growth belief will replace your biggest limiting belief?" }
+          ]
+        }
+      ],
+      "zoneAssessment": {
+        "id": "quiz-zone-2",
+        "title": "Wellness Check: Mindset Growth",
+        "questionCount": 6,
+        "passingScore": 70,
+        "designNotes": "Scenario-based: 'Your colleague says I'm just not a numbers person. Using the Mindset Swap, what should they do first?' Application-level. 3 minutes."
+      }
+    },
+    {
+      "id": "zone-3",
+      "title": "Stress Management",
+      "zoneName": "Stress Management",
+      "continuumZone": "clearing-to-building",
+      "zoneColor": "#6B8F71",
+      "colorTemperature": "warm sage — the breakthrough moment",
+      "description": "Identify self-inflicted stress patterns, learn foundational tools for prevention, and practice immediate deactivation techniques to regain control.",
+      "duration": "15-18 minutes",
+      "continuumAdvance": "60% → 80%",
+      "levelTransition": "Builder → (approaching Resident)",
+      "learningOutcomes": [
+        "Identify patterns of self-inflicted stress and understand how to break them",
+        "Apply foundational stress prevention tools",
+        "Practice immediate stress deactivation techniques",
+        "Explain how stress management supports all three MentaLIFE outcomes"
+      ],
+      "lessons": [
+        {
+          "id": "lesson-3-1",
+          "title": "Decreasing Self-Inflicted Stress",
+          "type": "video",
+          "duration": 6,
+          "videoSource": "client-synthesia",
+          "videoScript": "Zone 3 — Decreasing Self-Inflicted Stress",
+          "continuumPosition": "60-70%",
+          "objectives": [
+            "Identify patterns of self-inflicted stress in your own life",
+            "Understand how overcommitting, perfectionism, and poor boundaries create stress",
+            "Recognize the difference between stress you can control and stress you create"
+          ],
+          "suggestedActivities": [
+            "Pause & Reflect: Identify which self-inflicted stress pattern resonates most",
+            "Journaling: Map your stress triggers to controllable behaviors"
+          ],
+          "contentBlocks": [
+            { "type": "video-embed", "id": "video-3-1", "title": "Decreasing Self-Inflicted Stress", "designNotes": "Client-provided Synthesia video. Self-inflicted stress patterns, identification, breaking the cycle." },
+            { "type": "callout", "id": "callout-3-1-1", "variant": "reflection", "title": "Identifying Self-Inflicted Stressors", "designNotes": "Pause & Reflect: What self-inflicted stressors are you currently creating? Which pattern — overcommitting, perfectionism, poor planning, ignoring signs, or saying yes when you mean no — resonates most?" }
+          ]
+        },
+        {
+          "id": "lesson-3-2",
+          "title": "Stress Relief Strategies, Tools and Practices",
+          "type": "video",
+          "duration": 10,
+          "videoSource": "client-synthesia",
+          "videoScript": "Zone 3 — Stress Relief Strategies",
+          "continuumPosition": "70-80%",
+          "objectives": [
+            "Apply at least 3 foundational stress prevention tools",
+            "Practice immediate stress deactivation techniques",
+            "Explain how stress management supports all three MentaLIFE outcomes",
+            "Select specific strategies, tools, or practices to adopt"
+          ],
+          "suggestedActivities": [
+            "Interactive accordion: 9 Foundational Stress Prevention Tools",
+            "Interactive flashcards: 10 Stress Deactivation Techniques",
+            "Interactive tabs: Stress Management ↔ MentaLIFE Outcomes connection",
+            "Self-reflection: Pick 2 foundational tools and 2 techniques to adopt",
+            "Wellness Check: Zone 3 knowledge assessment (6 questions)"
+          ],
+          "contentBlocks": [
+            { "type": "video-embed", "id": "video-3-2", "title": "Stress Relief Strategies, Tools and Practices", "designNotes": "Client-provided Synthesia video. Foundational tools, deactivation techniques, outcome connections." },
+            { "type": "callout", "id": "callout-3-2-1", "variant": "reflection", "title": "Identifying Strategies to Adopt", "designNotes": "Pause & Reflection: From the strategies, tools, and practices presented, which will you adopt? Pick 2 foundational tools and 2 deactivation techniques." },
+            { "type": "callout", "id": "callout-3-2-2", "variant": "reflection", "title": "Your Stress Management Commitment", "designNotes": "Self-Reflection closing: How will you handle stress differently starting today?" }
+          ]
+        }
+      ],
+      "zoneAssessment": {
+        "id": "quiz-zone-3",
+        "title": "Wellness Check: Stress Management",
+        "questionCount": 6,
+        "passingScore": 70,
+        "designNotes": "Scenario-based: 'Your coworker is venting about a deadline and you feel your shoulders tighten. Which deactivation technique would help right now?' Mix of identification and application. 3 minutes."
+      }
+    },
+    {
+      "id": "zone-4",
+      "title": "Healthy Routines and Habits",
+      "zoneName": "The Living Space",
+      "continuumZone": "building-to-thriving",
+      "zoneColor": "#4A6B52",
+      "colorTemperature": "full warmth — deep sage, dusty rose accents, rich earth tones",
+      "description": "Build the daily life. Understand habits and routines, integrate mindset growth and stress management into a unified lifestyle, and create your personalized wellness plan.",
+      "duration": "18-22 minutes",
+      "continuumAdvance": "80% → 100%",
+      "levelTransition": "Builder → Resident",
+      "learningOutcomes": [
+        "Differentiate between habits and routines and understand the 66-day formation research",
+        "Understand how the MentaLIFE lifestyle integrates mindset growth and stress management",
+        "Design a personalized daily wellness routine incorporating MentaLIFE principles",
+        "Commit to specific intentional actions using the Daily Intentional Living Checklist"
+      ],
+      "lessons": [
+        {
+          "id": "lesson-4-1",
+          "title": "Building a Lifestyle through Routines and Habits",
+          "type": "video",
+          "duration": 6,
+          "videoSource": "client-synthesia",
+          "videoScript": "Zone 4 — Building a Lifestyle through Routines and Habits",
+          "continuumPosition": "80-87%",
+          "objectives": [
+            "Differentiate between habits (automatic) and routines (structured sequences)",
+            "Understand that 45% of daily actions are habitual and the 66-day formation timeline",
+            "Recognize the lifestyle health factor and its connection to quality of life"
+          ],
+          "suggestedActivities": [
+            "Self-reflection: Assess current routines and identify helpful vs harmful habits",
+            "Journaling: What habits would you like to build over the next 66 days"
+          ],
+          "contentBlocks": [
+            { "type": "video-embed", "id": "video-4-1", "title": "Building a Lifestyle through Routines and Habits", "designNotes": "Client-provided Synthesia video. Habits vs routines, 45% autopilot, 66-day research, lifestyle health factor." },
+            { "type": "callout", "id": "callout-4-1-1", "variant": "reflection", "title": "Routines and Habits Self-Assessment", "designNotes": "Self Reflection: What routines do you currently follow? Which habits are working for you, and which are working against you?" }
+          ]
+        },
+        {
+          "id": "lesson-4-2",
+          "title": "The MentaLIFE Lifestyle",
+          "type": "video",
+          "duration": 6,
+          "videoSource": "client-synthesia",
+          "videoScript": "Zone 4 — The MentaLIFE Lifestyle",
+          "continuumPosition": "87-93%",
+          "objectives": [
+            "Understand how the MentaLIFE lifestyle integrates mindset growth and stress management strategies",
+            "Identify which mindset and stress management strategies you are currently using",
+            "Recognize the connection between all three pillars in building a sustainable lifestyle"
+          ],
+          "suggestedActivities": [
+            "Pause & Reflect: Assess which mindset and stress strategies you currently use",
+            "Integration exercise: Map how all three pillars connect in your daily life"
+          ],
+          "contentBlocks": [
+            { "type": "video-embed", "id": "video-4-2", "title": "The MentaLIFE Lifestyle", "designNotes": "Client-provided Synthesia video. Integrating mindset growth and stress management strategies into daily lifestyle." },
+            { "type": "callout", "id": "callout-4-2-1", "variant": "reflection", "title": "Current Strategies Assessment", "designNotes": "Pause & Reflect: What strategies am I currently using for mindset growth and stress management? What's working? What needs to change?" }
+          ]
+        },
+        {
+          "id": "lesson-4-3",
+          "title": "Routines and Habits that Build Lifestyle",
+          "type": "video",
+          "duration": 8,
+          "videoSource": "client-synthesia",
+          "videoScript": "Zone 4 — Routines and Habits that Build Lifestyle",
+          "continuumPosition": "93-100%",
+          "objectives": [
+            "Explore MentaLIFE-aligned morning and evening routines",
+            "Identify daily self-care practices across physical, mental, social, and spiritual dimensions",
+            "Build a personalized Daily Intentional Living plan",
+            "Commit to patience, discipline, consistency, and self-accountability"
+          ],
+          "suggestedActivities": [
+            "Interactive accordion: MentaLIFE-aligned daily routines",
+            "Interactive tabs: Outcomes in Practice (Happiness, Healthiness, HQL)",
+            "Interactive scenario: Daily Intentional Living Planner",
+            "Course self-reflection: Commit to one intentional action this week",
+            "Wellness Check: Zone 4 knowledge assessment (6 questions)"
+          ],
+          "contentBlocks": [
+            { "type": "video-embed", "id": "video-4-3", "title": "Routines and Habits that Build Lifestyle", "designNotes": "Client-provided Synthesia video. Routine/habit descriptions, practical tools, daily intentional living." },
+            { "type": "callout", "id": "callout-4-3-1", "variant": "reflection", "title": "Your Wellness Lifestyle Plan", "designNotes": "Pause & Reflect: Identify strategies, tools and practices that support Mindset Growth, Stress Management and include routines and habits to create a WELLNESS LIFESTYLE." },
+            { "type": "callout", "id": "callout-4-3-2", "variant": "reflection", "title": "Course Self-Reflection", "designNotes": "Final course self-reflection: What is one intentional action you'll take this week? What routine will you build first? Who will you share this commitment with?" }
+          ]
+        }
+      ],
+      "zoneAssessment": {
+        "id": "quiz-zone-4",
+        "title": "Wellness Check: Healthy Routines & Habits",
+        "questionCount": 6,
+        "passingScore": 70,
+        "designNotes": "Application: 'You want to improve your fitness but keep skipping workouts. Using MentaLIFE principles, what's the first step?' Mix of habits/routines concepts and daily planning. 3 minutes."
+      }
+    }
+  ],
+
+  "durationBreakdown": {
+    "zone1_videos": "5 videos = ~31 min",
+    "zone1_reflections_quiz": "4 min",
+    "zone2_videos": "2 videos = ~16 min",
+    "zone2_reflections_quiz": "4 min",
+    "zone3_videos": "2 videos = ~16 min",
+    "zone3_reflections_quiz": "4 min",
+    "zone4_videos": "3 videos = ~20 min",
+    "zone4_reflections_quiz": "4 min",
+    "total_estimated": "~70 minutes"
+  },
+
+  "metadata": {
+    "phase": "0.5-design-infused",
+    "status": "complete",
+    "designConcept": "The Continuum",
+    "previousVersion": "blueprint-v3-revised.json",
+    "revisionTrigger": "Client Master Outline — MentaLIFE Wellness Course Master Outline.docx",
+    "notes": [
+      "Restructured from v3's 13 lessons (4+3+3+3) to 12 lessons (5+2+2+3) per Master Outline",
+      "Zone 2 is now Mindset Growth (Pillar #1), Zone 3 is Stress Management — swapped from v3",
+      "Zone 1 expanded: includes Mental Health Continuum + Stress intro (Understanding + Real vs Perceived)",
+      "Three separate outcome videos (Happiness, Healthiness, HQL) merged into one lesson",
+      "New lesson: Mental Wellness & The Mental Health Continuum (lesson-1-3)",
+      "New lesson: The MentaLIFE Lifestyle (lesson-4-2) — integrates all pillars into lifestyle",
+      "Videos are client-provided Synthesia avatars — NOT generated by the platform",
+      "Workshop-support positioning: reinforces concepts, doesn't teach from scratch",
+      "Three core pillars: Mindset Growth, Stress Management, Healthy Habits & Routines",
+      "Three outcomes: Happiness, Healthiness, High-Quality Living",
+      "Zone order per Master Outline: Framework → Mindset → Stress → Habits",
+      "Continuum progression system retained from v2/v3",
+      "Kelvin has a conference April 21 — soft delivery target"
+    ]
+  }
+}

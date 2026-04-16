@@ -1,0 +1,1068 @@
+{
+  "moduleId": "zone-1",
+  "moduleTitle": "The MentaLIFE Framework Introduction",
+  "lessons": [
+    {
+      "lessonId": "lesson-1-1",
+      "moduleId": "zone-1",
+      "title": "Introduction to the MentaLIFE Framework",
+      "type": "video",
+      "duration": 5,
+      "videoSource": "client-synthesia",
+      "videoScript": "Zone 1 — Introduction to MentaLIFE Framework",
+      "continuumPosition": "0-8%",
+      "objectives": [
+        "Explain the MentaLIFE mission: guiding people toward happy, healthy, high-quality living",
+        "Identify the three core pillars: Mindset Growth, Stress Management, Healthy Habits & Routines",
+        "Recognize the role of journaling and reflection in the wellness journey"
+      ],
+      "contentBlocks": [
+        {
+          "id": "video-1-1",
+          "type": "video-embed",
+          "title": "Introduction to the MentaLIFE Framework",
+          "content": "<p>Watch this introductory video to meet the MentaLIFE framework and its three core pillars.</p>",
+          "placement": "inline"
+        },
+        {
+          "id": "callout-1-1-1",
+          "type": "callout",
+          "variant": "quote",
+          "title": "The Question That Changes Everything",
+          "content": "<p>If you're not living a happy, healthy, high-quality life… then what are you doing?</p><p>— Kelvin Pruitt</p>",
+          "placement": "inline"
+        },
+        {
+          "id": "text-1-1-1",
+          "type": "text",
+          "title": "What Is MentaLIFE?",
+          "content": "<p>MentaLIFE is a wellness framework built on a simple belief: <strong>every person deserves to live a life that is genuinely happy, healthy, and high-quality</strong>. Not a perfect life. Not a life without struggle. But a life where you have the tools, the mindset, and the daily habits to thrive , even when things get hard.</p><p>At the center of that mission is one essential truth , all roads lead to mental wellness. Mental wellness means you've built the tools, strategies, and healthy practices that strengthen your ability to handle life as it comes. MentaLIFE focuses on helping people build mental wellness intentionally.</p>",
+          "sourceChunkIds": [
+            "chunk-1",
+            "chunk-2"
+          ],
+          "placement": "inline"
+        },
+        {
+          "id": "text-1-1-2",
+          "type": "text",
+          "title": "The Three Core Pillars",
+          "content": "<p>The MentaLIFE Framework is grounded in three core pillars. Explore each pillar in the interactive tabs below.</p><p>These three pillars lead to three measurable outcomes: <strong>Happiness</strong>, <strong>Healthiness</strong>, and <strong>High-Quality Living</strong>. Each zone of this course addresses one pillar , and everything connects back to those outcomes.</p>",
+          "sourceChunkIds": [
+            "chunk-2"
+          ],
+          "placement": "inline"
+        },
+        {
+          "id": "int-1-1-pillars",
+          "type": "pillars",
+          "title": "The Three Core Pillars",
+          "placement": "after-section",
+          "sectionId": "text-1-1-2",
+          "tabs": [
+            {
+              "label": "Mindset Growth",
+              "content": "<p><strong>Mindset Growth</strong> is the intentional process of reshaping your beliefs, attitudes, and assumptions so you stop letting life happen to you and start becoming an active participant.</p>"
+            },
+            {
+              "label": "Stress Management",
+              "content": "<p><strong>Stress Management</strong> is the intentional practice of using strategies, tools, and habits to reduce the negative effects of stress and restore balance.</p>"
+            },
+            {
+              "label": "Healthy Habits & Routines",
+              "content": "<p><strong>Healthy Habits & Routines</strong> are the daily actions that create physical health, mental clarity, emotional balance, and overall high-quality living.</p>"
+            }
+          ]
+        },
+        {
+          "id": "callout-1-1-2",
+          "type": "callout",
+          "variant": "key-insight",
+          "title": "Pillars Are Methods. Outcomes Are Results.",
+          "content": "<p>The three pillars (Mindset Growth, Stress Management, Healthy Habits & Routines) are <em>how</em> you do the work. The three outcomes (Happiness, Healthiness, High-Quality Living) are <em>what</em> you experience when the work takes root.</p>",
+          "placement": "inline"
+        },
+        {
+          "id": "callout-1-1-3",
+          "type": "callout",
+          "variant": "reflection",
+          "title": "Three Questions to Start Your Journey",
+          "content": "<p>Take a moment and reflect on these three questions:</p><ol><li>Do I believe I can achieve mental wellness?</li><li>Am I being intentional about building it?</li><li>Which of the three pillars do I need to strengthen the most right now?</li></ol>",
+          "placement": "after-section",
+          "sectionId": "text-1-1-2"
+        },
+        {
+          "id": "kc-1-1-q1",
+          "type": "knowledge-check",
+          "title": "What are the three core pillars of the MentaLIFE framework?",
+          "prompt": "What are the three core pillars of the MentaLIFE framework?",
+          "questionType": "multiple-choice",
+          "options": [
+            {
+              "id": "a",
+              "text": "Meditation, Exercise, and Nutrition"
+            },
+            {
+              "id": "b",
+              "text": "Mindset Growth, Stress Management, and Healthy Habits & Routines"
+            },
+            {
+              "id": "c",
+              "text": "Happiness, Healthiness, and High-Quality Living"
+            },
+            {
+              "id": "d",
+              "text": "Self-awareness, Goal Setting, and Accountability"
+            }
+          ],
+          "correctAnswer": "b",
+          "explanation": "The three pillars are Mindset Growth, Stress Management, and Healthy Habits & Routines. These are the methods — how you do the work.",
+          "placement": "end-of-lesson"
+        },
+        {
+          "id": "kc-1-1-q2",
+          "type": "knowledge-check",
+          "title": "According to MentaLIFE, what is the relationship between the",
+          "prompt": "According to MentaLIFE, what is the relationship between the pillars and the outcomes?",
+          "questionType": "multiple-choice",
+          "options": [
+            {
+              "id": "a",
+              "text": "The pillars are the results; the outcomes are the methods"
+            },
+            {
+              "id": "b",
+              "text": "The pillars and outcomes are the same thing"
+            },
+            {
+              "id": "c",
+              "text": "The pillars are the methods (how); the outcomes are the results (what)"
+            },
+            {
+              "id": "d",
+              "text": "The outcomes must be achieved before working on the pillars"
+            }
+          ],
+          "correctAnswer": "c",
+          "explanation": "The pillars are how you do the work. The outcomes — Happiness, Healthiness, and High-Quality Living — are what you experience when the work takes root.",
+          "placement": "end-of-lesson"
+        },
+        {
+          "id": "kc-1-1-q3",
+          "type": "knowledge-check",
+          "title": "What does MentaLIFE say is at the center of its mission?",
+          "prompt": "What does MentaLIFE say is at the center of its mission?",
+          "questionType": "multiple-choice",
+          "options": [
+            {
+              "id": "a",
+              "text": "Financial success through discipline"
+            },
+            {
+              "id": "b",
+              "text": "All roads lead to mental wellness"
+            },
+            {
+              "id": "c",
+              "text": "Physical fitness is the foundation of well-being"
+            },
+            {
+              "id": "d",
+              "text": "Positive thinking eliminates all stress"
+            }
+          ],
+          "correctAnswer": "b",
+          "explanation": "All roads lead to mental wellness. Mental wellness means building the tools, strategies, and healthy practices that strengthen your ability to handle life as it comes.",
+          "placement": "end-of-lesson"
+        }
+      ],
+      "metadata": {
+        "generatedAt": "2026-04-07T00:23:47.353Z",
+        "wordCount": 336,
+        "readingLevel": "8th-10th grade"
+      }
+    },
+    {
+      "lessonId": "lesson-1-2",
+      "moduleId": "zone-1",
+      "title": "MentaLIFE Outcomes: Happiness, Health & High-Quality Living",
+      "type": "video",
+      "duration": 8,
+      "videoSource": "client-synthesia",
+      "videoScript": "Zone 1 — MentaLIFE Outcomes",
+      "continuumPosition": "8-18%",
+      "objectives": [
+        "Define happiness as a sustained emotional state built through intention, not external circumstances",
+        "Recognize that mental, emotional, and physical well-being are interconnected",
+        "Define high-quality living as the result of intentional daily choices, not chance",
+        "Rate your current level of happiness, health, and quality of life"
+      ],
+      "contentBlocks": [
+        {
+          "id": "video-1-2",
+          "type": "video-embed",
+          "title": "MentaLIFE Outcomes: Happiness, Health & High-Quality Living",
+          "content": "<p>Watch this video to explore the three MentaLIFE outcomes and understand why each one is something you build intentionally.</p>",
+          "placement": "inline"
+        },
+        {
+          "id": "callout-1-2-s",
+          "type": "callout",
+          "variant": "science",
+          "title": "60% of Health Is Linked to Lifestyle",
+          "content": "<p>According to the World Health Organization, <strong>60% of factors related to individual health and quality of life are linked to lifestyle</strong>. Harvard Health research adds that adopting healthy habits can add over a decade to your lifespan. Health isn't just about what happens to you , it's about the daily systems you build.</p>",
+          "placement": "inline"
+        },
+        {
+          "id": "int-1-2-tabs-outcomes",
+          "type": "beacon-trio",
+          "title": "The Three MentaLIFE Outcomes",
+          "placement": "after-section",
+          "sectionId": "callout-1-2-s",
+          "tabs": [
+            {
+              "label": "Happiness",
+              "content": "<p><strong>Happiness Is Built, Not Found</strong></p><p>Happiness is more than a moment of excitement or temporary pleasure. It is a sustained emotional state, created by feelings like joy, satisfaction, meaning, and fulfillment.</p><p>True happiness starts with self-awareness: knowing who you are, understanding what you value, and being intentional about how you show up in your life every day.</p><p>Real happiness doesn't come from outside of you. It's not dependent on people, possessions, or perfect circumstances. True happiness is built internally, through your mindset, your habits, your relationships, and your daily choices. And because it comes from within, it cannot be taken away.</p><p>People who experience lasting happiness aren't those whose lives are free from hardship. They are people who are rich in gratitude, connection, and a profound sense of purpose.</p>"
+            },
+            {
+              "label": "Healthiness",
+              "content": "<p><strong>Health Is a Connected System</strong></p><p>In the MentaLIFE framework, healthiness is not just about avoiding illness. It's about recognizing that your mental, emotional, and physical well-being are deeply connected. Not separate. Not isolated. But constantly influencing one another. When one area is off, the others feel it.</p><p>Healthiness doesn't happen by accident. It requires a lifestyle built on three things: Intention, Consistency, and Accountability.</p><p>It means paying attention to the systems that keep you functioning at your best: your sleep and recovery, your movement and physical activity, your emotional regulation and self-awareness, and your ability to manage stress and handle life's demands.</p>"
+            },
+            {
+              "label": "High-Quality Living",
+              "content": "<p><strong>Designed by You, Not Decided for You</strong></p><p>High-quality living is the third MentaLIFE outcome, and it emerges from purposeful habits, supportive environments, and mindful choices.</p><p>It is not something you stumble into. It is something you build, one decision at a time. It comes from the habits you practice, the environments you create, and the standards you hold for yourself. It means being intentional with your time, your energy, and your lifestyle.</p><p>Your lifestyle is either being designed by you... or decided for you.</p><p>Over time, your choices compound. Small, intentional actions repeated daily begin to shape your experiences, your relationships, your opportunities, and ultimately, your quality of life.</p>"
+            }
+          ]
+        },
+        {
+          "id": "callout-1-2-1",
+          "type": "callout",
+          "variant": "reflection",
+          "title": "Rate Your Current Well-Being",
+          "content": "<p>Take a moment to honestly rate yourself on a scale of 1–10:</p><ol><li><strong>Happiness</strong> , How genuinely happy do you feel in your daily life?</li><li><strong>Healthiness</strong> , How well are your mind, body, and emotions working together?</li><li><strong>High-Quality Living</strong> , How intentionally are you designing your daily life?</li></ol><p>Which area scored lowest? That's where your journey begins.</p>",
+          "placement": "after-section",
+          "sectionId": "int-1-2-tabs-outcomes"
+        },
+        {
+          "id": "kc-1-2-q1",
+          "type": "knowledge-check",
+          "title": "According to MentaLIFE, happiness is best described as:",
+          "prompt": "According to MentaLIFE, happiness is best described as:",
+          "questionType": "multiple-choice",
+          "options": [
+            {
+              "id": "a",
+              "text": "A constant feeling of joy without any negative emotions"
+            },
+            {
+              "id": "b",
+              "text": "A sustained emotional state built through intentional choices and practices"
+            },
+            {
+              "id": "c",
+              "text": "Something determined entirely by external circumstances"
+            },
+            {
+              "id": "d",
+              "text": "An outcome that only some people are genetically capable of achieving"
+            }
+          ],
+          "correctAnswer": "b",
+          "explanation": "Happiness in the MentaLIFE framework is a sustained emotional state built through intention , not the absence of struggle, but a foundation strong enough to weather it.",
+          "placement": "end-of-lesson"
+        },
+        {
+          "id": "kc-1-2-q2",
+          "type": "knowledge-check",
+          "title": "What does \"high-quality living\" mean within the MentaLIFE fr",
+          "prompt": "What does \"high-quality living\" mean within the MentaLIFE framework?",
+          "questionType": "multiple-choice",
+          "options": [
+            {
+              "id": "a",
+              "text": "Having a high income and material wealth"
+            },
+            {
+              "id": "b",
+              "text": "Never experiencing failure or setbacks"
+            },
+            {
+              "id": "c",
+              "text": "Living each day with intention, purpose, and alignment with your values"
+            },
+            {
+              "id": "d",
+              "text": "Achieving perfect work-life balance at all times"
+            }
+          ],
+          "correctAnswer": "c",
+          "explanation": "High-quality living is the result of intentional daily choices , living with purpose and alignment with your values, not material wealth or perfection.",
+          "placement": "end-of-lesson"
+        },
+        {
+          "id": "kc-1-2-q3",
+          "type": "knowledge-check",
+          "title": "Which statement best describes the relationship between the ",
+          "prompt": "Which statement best describes the relationship between the three MentaLIFE outcomes?",
+          "questionType": "multiple-choice",
+          "options": [
+            {
+              "id": "a",
+              "text": "They are separate goals that should be pursued independently"
+            },
+            {
+              "id": "b",
+              "text": "Happiness must be achieved first before working on the others"
+            },
+            {
+              "id": "c",
+              "text": "They are interconnected , mental, emotional, and physical well-being reinforce each other"
+            },
+            {
+              "id": "d",
+              "text": "Only one outcome can be prioritized at a time"
+            }
+          ],
+          "correctAnswer": "c",
+          "explanation": "The three outcomes are deeply interconnected. Your mental, emotional, and physical well-being reinforce each other , improving one supports the others.",
+          "placement": "end-of-lesson"
+        }
+      ],
+      "metadata": {
+        "generatedAt": "2026-04-07T00:23:47.354Z",
+        "wordCount": 462,
+        "readingLevel": "8th-10th grade"
+      }
+    },
+    {
+      "lessonId": "lesson-1-3",
+      "moduleId": "zone-1",
+      "title": "Mental Wellness & The Mental Health Continuum",
+      "type": "video",
+      "duration": 6,
+      "videoSource": "client-synthesia",
+      "videoScript": "Zone 1 — The Mental Health Continuum",
+      "continuumPosition": "18-26%",
+      "objectives": [
+        "Define mental wellness as the foundation of overall well-being",
+        "Describe the mental health continuum from surviving to thriving",
+        "Identify where you currently exist on the mental health continuum"
+      ],
+      "contentBlocks": [
+        {
+          "id": "video-1-3",
+          "type": "video-embed",
+          "title": "The Mental Health Continuum",
+          "content": "<p>Watch this video to understand mental wellness and where you fall on the continuum from surviving to thriving.</p>",
+          "placement": "inline"
+        },
+        {
+          "id": "text-1-3-1",
+          "type": "text",
+          "title": "Mental Wellness: The Foundation",
+          "content": "<p>Mental wellness is more than the absence of mental illness. It is the active process of building the tools, strategies, and habits that strengthen your ability to navigate life's challenges with clarity, balance, and resilience.</p><p>When we talk about mental wellness, we're talking about your emotional regulation, your thought patterns, your ability to cope with stress, your sense of purpose, and the quality of your relationships. All of these contribute to how you experience daily life.</p><p>Mental wellness is not a destination you arrive at. It's a practice you maintain. And just like physical fitness, it requires consistent effort, intentional habits, and the willingness to keep showing up , even on difficult days.</p><p><strong>All roads in MentaLIFE lead to mental wellness.</strong> The three pillars , Mindset Growth, Stress Management, and Healthy Habits & Routines , are the methods you use to strengthen your mental wellness every single day.</p>",
+          "sourceChunkIds": [
+            "chunk-1",
+            "chunk-2"
+          ],
+          "placement": "inline"
+        },
+        {
+          "id": "text-1-3-2",
+          "type": "text",
+          "title": "The Mental Health Continuum",
+          "content": "<p>Mental health is not a binary state , you're not simply \"well\" or \"unwell.\" Instead, your mental health exists on a continuum, and your position shifts depending on your circumstances, habits, and support systems.</p><p>The MentaLIFE mental health continuum includes five stages , from Surviving to Thriving. Explore each stage in the interactive timeline below.</p><p>The goal of MentaLIFE is not perfection , it's movement. Wherever you are right now, the next step forward is always available to you.</p><p><em>Please note, this continuum is a wellness framework for self-awareness and growth. It does not replace professional mental health diagnosis or treatment.</em></p>",
+          "placement": "inline"
+        },
+        {
+          "id": "int-1-3-spectrum",
+          "type": "spectrum",
+          "title": "The Mental Health Continuum",
+          "placement": "after-section",
+          "sectionId": "text-1-3-2",
+          "events": [
+            {
+              "id": "stage-1",
+              "step": 1,
+              "title": "Surviving",
+              "content": "<p>You're in crisis mode. Every day feels like a battle. You're overwhelmed, depleted, and just trying to get through.</p>"
+            },
+            {
+              "id": "stage-2",
+              "step": 2,
+              "title": "Existing",
+              "content": "<p>You're functioning, but you're not thriving. Life feels like going through the motions without real purpose or joy.</p>"
+            },
+            {
+              "id": "stage-3",
+              "step": 3,
+              "title": "Clearing",
+              "content": "<p>You've started to gain awareness. You can see the patterns holding you back, and you're beginning to make intentional changes.</p>"
+            },
+            {
+              "id": "stage-4",
+              "step": 4,
+              "title": "Building",
+              "content": "<p>You're actively working on your mindset, managing stress, and creating routines that support your well-being. Growth is visible.</p>"
+            },
+            {
+              "id": "stage-5",
+              "step": 5,
+              "title": "Thriving",
+              "content": "<p>You're living with intention, purpose, and alignment. Your pillars are strong, and your daily life reflects the outcomes you've designed.</p>"
+            }
+          ]
+        },
+        {
+          "id": "callout-1-3-1",
+          "type": "callout",
+          "variant": "key-insight",
+          "title": "Movement, Not Perfection",
+          "content": "<p>You don't have to leap from surviving to thriving overnight. The continuum is about honest self-assessment and consistent forward movement. Every intentional choice , every mindset shift, every boundary set, every healthy routine practiced , moves you forward on the continuum.</p>",
+          "placement": "inline"
+        },
+        {
+          "id": "callout-1-3-2",
+          "type": "callout",
+          "variant": "reflection",
+          "title": "Where Do You Exist on the Continuum?",
+          "content": "<p>Take an honest look at where you generally exist on the mental health continuum right now:</p><ul><li><strong>Surviving</strong> , overwhelmed, depleted, in crisis</li><li><strong>Existing</strong> , going through the motions</li><li><strong>Clearing</strong> , gaining awareness, starting to change</li><li><strong>Building</strong> , actively working on your pillars</li><li><strong>Thriving</strong> , living with intention and alignment</li></ul><p>There is no wrong answer. Awareness is always the first step toward growth.</p>",
+          "placement": "after-section",
+          "sectionId": "text-1-3-2"
+        },
+        {
+          "id": "kc-1-3-q1",
+          "type": "knowledge-check",
+          "title": "The mental health continuum ranges from:",
+          "prompt": "The mental health continuum ranges from:",
+          "questionType": "multiple-choice",
+          "options": [
+            {
+              "id": "a",
+              "text": "Sick to Healthy"
+            },
+            {
+              "id": "b",
+              "text": "Surviving to Thriving"
+            },
+            {
+              "id": "c",
+              "text": "Beginner to Expert"
+            },
+            {
+              "id": "d",
+              "text": "Stressed to Relaxed"
+            }
+          ],
+          "correctAnswer": "b",
+          "explanation": "The continuum ranges from Surviving through Existing, Clearing, Building, and ultimately to Thriving.",
+          "placement": "end-of-lesson"
+        },
+        {
+          "id": "kc-1-3-q2",
+          "type": "knowledge-check",
+          "title": "Mental wellness is best defined as:",
+          "prompt": "Mental wellness is best defined as:",
+          "questionType": "multiple-choice",
+          "options": [
+            {
+              "id": "a",
+              "text": "The absence of mental illness or diagnosed conditions"
+            },
+            {
+              "id": "b",
+              "text": "Feeling happy and stress-free every day"
+            },
+            {
+              "id": "c",
+              "text": "Having the tools, strategies, and practices to handle life as it comes"
+            },
+            {
+              "id": "d",
+              "text": "A fixed trait that cannot be changed or improved"
+            }
+          ],
+          "correctAnswer": "c",
+          "explanation": "Mental wellness means having the tools, strategies, and healthy practices that strengthen your ability to handle life , it's not about the absence of struggle.",
+          "placement": "end-of-lesson"
+        },
+        {
+          "id": "kc-1-3-q3",
+          "type": "knowledge-check",
+          "title": "According to the MentaLIFE framework, your position on the m",
+          "prompt": "According to the MentaLIFE framework, your position on the mental health continuum is:",
+          "questionType": "multiple-choice",
+          "options": [
+            {
+              "id": "a",
+              "text": "Fixed from birth and cannot change"
+            },
+            {
+              "id": "b",
+              "text": "Determined entirely by your circumstances"
+            },
+            {
+              "id": "c",
+              "text": "Dynamic , it shifts based on your practices, habits, and mindset"
+            },
+            {
+              "id": "d",
+              "text": "Only changeable through professional therapy"
+            }
+          ],
+          "correctAnswer": "c",
+          "explanation": "Your position on the continuum is dynamic. The MentaLIFE framework is built on the belief that intentional practices, habits, and mindset shifts can move you toward thriving.",
+          "placement": "end-of-lesson"
+        }
+      ],
+      "metadata": {
+        "generatedAt": "2026-04-07T00:23:47.354Z",
+        "wordCount": 424,
+        "readingLevel": "8th-10th grade"
+      }
+    },
+    {
+      "lessonId": "lesson-1-4",
+      "moduleId": "zone-1",
+      "title": "The Science and Impacts of Stress",
+      "type": "video",
+      "duration": 6,
+      "videoSource": "client-synthesia",
+      "videoScript": "Zone 1 — The Science and Impacts of Stress",
+      "continuumPosition": "26-34%",
+      "objectives": [
+        "Describe the stress response system (perceived threat → hormones → fight/flee/freeze)",
+        "Understand why unmanaged chronic stress erodes well-being",
+        "Recognize how stress shows up in the workplace"
+      ],
+      "contentBlocks": [
+        {
+          "id": "video-1-4",
+          "type": "video-embed",
+          "title": "The Science and Impacts of Stress",
+          "content": "<p>Watch this video to understand how stress works in your body , and why it matters for your mental wellness.</p>",
+          "placement": "inline"
+        },
+        {
+          "id": "text-1-4-1",
+          "type": "text",
+          "title": "Understanding Stress",
+          "content": "<p>One of the few things in life that does not discriminate , regardless of age, gender, race, or background , is stress. Every one of us experiences it. For some, it's an occasional inconvenience. For others, it's a daily reality.</p><p>Stress is your body's biological and emotional response to a threat , whether that threat is real or <strong>perceived</strong>. And that word <em>perceived</em> is everything.</p><p><strong>Stress is your body's biological and emotional response to a threat , whether that threat is real or perceived.</strong></p><p><strong>Common Signs Stress Is Building:</strong></p><ul><li>Irritability</li><li>Poor sleep</li><li>Brain fog</li><li>Headaches</li><li>Tight muscles</li><li>Low motivation</li><li>Emotional eating</li><li>Difficulty focusing</li></ul>",
+          "sourceChunkIds": [
+            "chunk-5"
+          ],
+          "placement": "inline"
+        },
+        {
+          "id": "text-1-4-2",
+          "type": "text",
+          "title": "The Stress Response System",
+          "content": "<p>Here's what happens when you experience stress — explore each step in the timeline below.</p><p>Now imagine this system firing multiple times a day, every single day. Over time, that constant overuse wears you down mentally, physically, and emotionally. What was designed to protect you in moments of real danger becomes a silent threat when left on repeat.</p>",
+          "sourceChunkIds": [
+            "chunk-5"
+          ],
+          "placement": "inline"
+        },
+        {
+          "id": "int-1-4-cascade",
+          "type": "cascade",
+          "title": "The Stress Response System",
+          "placement": "after-section",
+          "sectionId": "text-1-4-2",
+          "events": [
+            {
+              "id": "step-1",
+              "step": 1,
+              "title": "Trigger: Perceived Threat",
+              "content": "<p>Something happens that your mind perceives and interprets as a threat. It could be an angry email, a financial setback, or a sudden noise. The trigger doesn't have to be life-threatening. Your brain just has to believe it is.</p>"
+            },
+            {
+              "id": "step-2",
+              "step": 2,
+              "title": "Brain Activation",
+              "content": "<p>Your brain activates your stress response system, engaging your nervous, endocrine, and immune systems. This is your body going to battle stations, redirecting resources to prepare for immediate action.</p>"
+            },
+            {
+              "id": "step-3",
+              "step": 3,
+              "title": "Hormone Surge",
+              "content": "<p>Hormones like adrenaline and cortisol surge through your body. These are your fight-or-flight chemicals. They sharpen your senses and flood you with energy.</p>"
+            },
+            {
+              "id": "step-4",
+              "step": 4,
+              "title": "Physical Response",
+              "content": "<p>Your heart rate spikes. Blood pressure rises. Digestion slows. Muscles tighten. Your body is literally rearranging its priorities, pulling energy away from maintenance functions so it can focus on the perceived emergency.</p>"
+            },
+            {
+              "id": "step-5",
+              "step": 5,
+              "title": "Fight, Flee, or Freeze",
+              "content": "<p>In seconds, your body is primed to fight, flee, or freeze. This is the survival mechanism that kept our ancestors alive when they faced predators and genuine physical threats.</p>"
+            }
+          ]
+        },
+        {
+          "id": "callout-1-4-s",
+          "type": "callout",
+          "variant": "statistic",
+          "title": "55% of the Adult World Experiences Daily Stress",
+          "content": "<p>According to a 2021 Gallup poll, half of the adult world (55%) is stressed out, experiencing daily stress and worry. If stress is inevitable, then managing it isn't optional , it's essential.</p>",
+          "placement": "inline"
+        },
+        {
+          "id": "text-1-4-3",
+          "type": "text",
+          "title": "Stress in the Workplace",
+          "content": "<p>For working professionals, stress often compounds in the workplace. Deadlines, performance expectations, interpersonal conflicts, workload imbalances, and the pressure to be \"always on\" create a chronic stress environment that can spill into every area of life.</p><p>Workplace stress doesn't just affect your productivity , it affects your relationships, your sleep, your health, and your overall quality of life. Understanding that your stress response doesn't differentiate between a threatening email and a threatening situation is the first step toward taking back control.</p><p>The good news? You don't have to eliminate all stress. You just need to understand how it works , so you can learn to manage your response to it.</p>",
+          "placement": "inline"
+        },
+        {
+          "id": "callout-1-4-1",
+          "type": "callout",
+          "variant": "reflection",
+          "title": "How Is Stress Showing Up in Your Life?",
+          "content": "<p>Think about the last week. Where has stress been showing up , in your body, your mood, your relationships, or your work performance? Is it mostly external, or is some of it coming from within?</p>",
+          "placement": "after-section",
+          "sectionId": "text-1-4-3"
+        },
+        {
+          "id": "kc-1-4-q1",
+          "type": "knowledge-check",
+          "title": "What triggers the stress response in your body?",
+          "prompt": "What triggers the stress response in your body?",
+          "questionType": "multiple-choice",
+          "options": [
+            {
+              "id": "a",
+              "text": "Only real, physical threats to your safety"
+            },
+            {
+              "id": "b",
+              "text": "A perceived threat , whether real or imagined , triggers hormones that prepare you to fight, flee, or freeze"
+            },
+            {
+              "id": "c",
+              "text": "Negative thoughts that occur only during sleep"
+            },
+            {
+              "id": "d",
+              "text": "Chemical imbalances that are entirely genetic"
+            }
+          ],
+          "correctAnswer": "b",
+          "explanation": "Stress begins with a perceived threat. Your brain cannot fully distinguish between a real danger and an imagined one, so both trigger the hormonal cascade that prepares you to fight, flee, or freeze.",
+          "placement": "end-of-lesson"
+        },
+        {
+          "id": "kc-1-4-q2",
+          "type": "knowledge-check",
+          "title": "Why is chronic, unmanaged stress dangerous?",
+          "prompt": "Why is chronic, unmanaged stress dangerous?",
+          "questionType": "multiple-choice",
+          "options": [
+            {
+              "id": "a",
+              "text": "It only affects your mood temporarily"
+            },
+            {
+              "id": "b",
+              "text": "It erodes physical health, mental clarity, and overall well-being over time"
+            },
+            {
+              "id": "c",
+              "text": "It has no measurable health effects"
+            },
+            {
+              "id": "d",
+              "text": "It is dangerous only for people over 50"
+            }
+          ],
+          "correctAnswer": "b",
+          "explanation": "Chronic stress keeps your body in a state of constant activation, eroding physical health, mental clarity, emotional stability, and overall well-being over time.",
+          "placement": "end-of-lesson"
+        },
+        {
+          "id": "kc-1-4-q3",
+          "type": "knowledge-check",
+          "title": "How does stress commonly show up in the workplace?",
+          "prompt": "How does stress commonly show up in the workplace?",
+          "questionType": "multiple-choice",
+          "options": [
+            {
+              "id": "a",
+              "text": "It only appears as physical symptoms like headaches"
+            },
+            {
+              "id": "b",
+              "text": "Through decreased focus, irritability, absenteeism, and reduced productivity"
+            },
+            {
+              "id": "c",
+              "text": "It does not affect workplace performance"
+            },
+            {
+              "id": "d",
+              "text": "Only in high-pressure industries like healthcare"
+            }
+          ],
+          "correctAnswer": "b",
+          "explanation": "Workplace stress manifests as decreased focus, irritability, strained relationships, absenteeism, and reduced productivity , affecting both individual performance and team dynamics.",
+          "placement": "end-of-lesson"
+        }
+      ],
+      "metadata": {
+        "generatedAt": "2026-04-07T00:23:47.355Z",
+        "wordCount": 400,
+        "readingLevel": "8th-10th grade"
+      }
+    },
+    {
+      "lessonId": "lesson-1-5",
+      "moduleId": "zone-1",
+      "title": "Real vs. Perceived Stress",
+      "type": "video",
+      "duration": 6,
+      "videoSource": "client-synthesia",
+      "videoScript": "Zone 1 — Real vs Perceived Stress",
+      "continuumPosition": "34-40%",
+      "objectives": [
+        "Differentiate between real stressors and perceived stressors",
+        "Identify examples of real and perceived stressors in your own life",
+        "Recognize that perception , shaped by mindset , determines your stress experience"
+      ],
+      "contentBlocks": [
+        {
+          "id": "video-1-5",
+          "type": "video-embed",
+          "title": "Real vs. Perceived Stress",
+          "content": "<p>Watch this video to understand the critical difference between real and perceived stress , and why your perception changes everything.</p>",
+          "placement": "inline"
+        },
+        {
+          "id": "text-1-5-1",
+          "type": "text",
+          "title": "Real Stressors vs. Perceived Stressors",
+          "content": "<p>Your body doesn't distinguish between a real threat and a perceived one. The stress response fires either way. That's why understanding the difference matters.</p><p><strong>Real stressors</strong> are genuine, immediate threats or challenges: a medical emergency, a sudden job loss, a car accident, or the death of a loved one. These are situations that demand a real response.</p><p><strong>Perceived stressors</strong> are threats your mind creates based on interpretation, fear, or anticipation: worrying about a presentation that hasn't happened, imagining the worst-case scenario, or replaying a conversation and assuming negative intent. These feel just as real to your body , the hormones, the tension, the racing heart , even though the threat is constructed by your mind.</p><p>The key insight is this: <strong>your body responds the same way whether the threat is real or imagined</strong>. That means your perception has enormous power over your stress experience.</p>",
+          "sourceChunkIds": [
+            "chunk-5"
+          ],
+          "placement": "inline"
+        },
+        {
+          "id": "text-1-5-2",
+          "type": "text",
+          "title": "Examples of Real and Perceived Stressors",
+          "content": "<p>Understanding the difference in daily life — flip through the cards below to compare real and perceived stressors side by side.</p><p>Notice that many perceived stressors involve <strong>anticipation, assumption, and interpretation</strong> , all of which are influenced by your mindset.</p>",
+          "placement": "inline"
+        },
+        {
+          "id": "int-1-5-versus",
+          "type": "versus",
+          "title": "Real vs. Perceived Stressor Examples",
+          "placement": "after-section",
+          "sectionId": "text-1-5-2",
+          "cards": [
+            {
+              "front": "Real: A tight deadline at work that requires immediate action",
+              "back": "Perceived: Assuming your boss is disappointed in you because of a brief email"
+            },
+            {
+              "front": "Real: A financial emergency that affects your household",
+              "back": "Perceived: Worrying about money problems that haven't happened yet"
+            },
+            {
+              "front": "Real: A health diagnosis that requires treatment",
+              "back": "Perceived: Googling symptoms and convincing yourself of the worst"
+            },
+            {
+              "front": "Real: A conflict with a coworker that needs resolution",
+              "back": "Perceived: Replaying a conversation and imagining what they \"really meant\""
+            }
+          ]
+        },
+        {
+          "id": "callout-1-5-q",
+          "type": "callout",
+          "variant": "statistic",
+          "title": "Perception and Stress",
+          "content": "<p>Studies suggest that only about <strong>20%</strong> of our stress is tied to real, immediate problems. The other <strong>80%</strong> is often perceived stress created by how we interpret situations.</p>",
+          "placement": "inline"
+        },
+        {
+          "id": "text-1-5-3",
+          "type": "text",
+          "title": "Owning the 80%",
+          "content": "<p>That does not mean the stress feels fake. It means many stress reactions come from anticipation, assumptions, overthinking, fear, or imagining worst-case outcomes rather than from an actual threat happening in the moment.</p><p>A delayed text message, a critical comment, an upcoming bill, a busy week, or uncertainty about the future can trigger the same stress response as a real danger if the mind interprets it as a threat.</p><p>This is why perception matters so much.</p><p>Two people can face the same situation and experience completely different levels of stress. One sees a challenge to solve. The other sees a disaster unfolding. The event may be the same, but the mindset and interpretation change the emotional outcome.</p><p>The empowering truth is this: <strong>if perception creates stress, perception can also reduce it.</strong></p><p>You may not control every circumstance, but you can learn to control how you frame it, respond to it, and manage it.</p>",
+          "sourceChunkIds": [
+            "chunk-5"
+          ],
+          "placement": "inline"
+        },
+        {
+          "id": "text-1-5-4",
+          "type": "text",
+          "title": "Why This Matters",
+          "content": "<p>If most stress is perception-driven, then mindset growth becomes a powerful stress management tool. By changing your thoughts, challenging assumptions, and focusing on what is real, present, and controllable, you reduce unnecessary stress and protect your peace.</p><p>The goal is not to deny real problems. The goal is to <strong>stop suffering from problems that only exist in your mind</strong>.</p>",
+          "placement": "inline"
+        },
+        {
+          "id": "callout-1-5-1",
+          "type": "callout",
+          "variant": "reflection",
+          "title": "Identifying Your Stressors",
+          "content": "<p>Think about the stress you're carrying right now:</p><ol><li>Name one <strong>real stressor</strong> you're currently dealing with , something that demands a genuine response.</li><li>Name one <strong>perceived stressor</strong> , something your mind has amplified through worry, assumption, or anticipation.</li><li>How does your perception change when you separate the two?</li></ol>",
+          "placement": "after-section",
+          "sectionId": "text-1-5-3"
+        },
+        {
+          "id": "wc-1-5",
+          "type": "wellness-check",
+          "title": "Zone 1 Wellness Check",
+          "questions": [
+            {
+              "id": "wc-1-5-q1",
+              "stem": "MentaLIFE is built on three core pillars. Which of the following correctly names all three?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "Nutrition, Exercise, and Sleep Optimization"
+                },
+                {
+                  "id": "b",
+                  "text": "Mindset Growth, Stress Management, and Healthy Habits & Routines"
+                },
+                {
+                  "id": "c",
+                  "text": "Positive Thinking, Financial Wellness, and Physical Fitness"
+                },
+                {
+                  "id": "d",
+                  "text": "Self-Care, Therapy, and Medication Management"
+                }
+              ],
+              "correctAnswer": "b",
+              "explanation": "The three pillars are the methods , Mindset Growth, Stress Management, and Healthy Habits & Routines. These are how you do the work. The outcomes , Happiness, Healthiness, and High-Quality Living , are what you experience when that work takes root."
+            },
+            {
+              "id": "wc-1-5-q2",
+              "stem": "The mental health continuum describes five stages. Someone who is 'functioning but not thriving, going through the motions without real purpose or joy' is at which stage?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "Surviving"
+                },
+                {
+                  "id": "b",
+                  "text": "Existing"
+                },
+                {
+                  "id": "c",
+                  "text": "Building"
+                },
+                {
+                  "id": "d",
+                  "text": "Thriving"
+                }
+              ],
+              "correctAnswer": "b",
+              "explanation": "The 'Existing' stage describes functioning without thriving , going through the motions without real purpose or joy. The goal of MentaLIFE is movement along the continuum: from surviving through existing, clearing, building, and toward thriving."
+            },
+            {
+              "id": "wc-1-5-q3",
+              "stem": "When your body perceives a threat , real or imagined , it triggers a cascade of hormones like adrenaline and cortisol. What happens when this stress response fires repeatedly, day after day?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "Your body gets stronger and more resilient each time"
+                },
+                {
+                  "id": "b",
+                  "text": "It wears you down mentally, physically, and emotionally , turning a protective system into a silent threat"
+                },
+                {
+                  "id": "c",
+                  "text": "It has no lasting effect as long as you eat well"
+                },
+                {
+                  "id": "d",
+                  "text": "Your brain eventually stops producing stress hormones altogether"
+                }
+              ],
+              "correctAnswer": "b",
+              "explanation": "Your stress response was designed to protect you in moments of real danger. But when it fires constantly , multiple times a day, every day , it erodes your well-being. What was built to keep you safe becomes a source of harm when left on repeat."
+            },
+            {
+              "id": "wc-1-5-q4",
+              "stem": "You receive a short email from your boss that simply says 'Let's talk tomorrow.' You immediately feel your heart race and start imagining you're in trouble. This is an example of:",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "A real stressor , you should prepare to defend yourself"
+                },
+                {
+                  "id": "b",
+                  "text": "A perceived stressor , your mind is creating a threat based on assumption and anticipation"
+                },
+                {
+                  "id": "c",
+                  "text": "No stress at all , emails don't affect the body"
+                },
+                {
+                  "id": "d",
+                  "text": "Self-inflicted stress , you should have done better work"
+                }
+              ],
+              "correctAnswer": "b",
+              "explanation": "This is a perceived stressor. Your body responds as if the threat is real , the racing heart, the anxiety , but the actual danger was created by your interpretation. The email itself was neutral. Your mindset filled in the rest. That's why perception is everything."
+            },
+            {
+              "id": "wc-1-5-q5",
+              "stem": "In the MentaLIFE framework, true happiness is best described as:",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "A temporary feeling that depends on good circumstances"
+                },
+                {
+                  "id": "b",
+                  "text": "Something you're either born with or you're not"
+                },
+                {
+                  "id": "c",
+                  "text": "A sustained emotional state built internally through mindset, habits, and daily choices"
+                },
+                {
+                  "id": "d",
+                  "text": "The absence of stress and hardship in your life"
+                }
+              ],
+              "correctAnswer": "c",
+              "explanation": "Happiness isn't something you find or stumble into , it's something you build from the inside out. It comes from your mindset, your habits, your relationships, and your daily choices. And because it comes from within, it can't be taken away."
+            },
+            {
+              "id": "wc-1-5-q6",
+              "stem": "Why does MentaLIFE say that perception is the most important factor in your stress experience?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "Because if you ignore a problem, it stops being stressful"
+                },
+                {
+                  "id": "b",
+                  "text": "Because your body responds the same way whether a threat is real or perceived , and your mindset determines how you interpret what happens to you"
+                },
+                {
+                  "id": "c",
+                  "text": "Because stress is entirely imaginary and doesn't affect the body"
+                },
+                {
+                  "id": "d",
+                  "text": "Because only weak-minded people experience stress from perception"
+                }
+              ],
+              "correctAnswer": "b",
+              "explanation": "Your body doesn't distinguish between a real threat and a perceived one , the stress response fires either way. That's why mindset matters so much. A negative mindset magnifies threats; a resilient mindset creates space for clarity and control."
+            }
+          ],
+          "placement": "end-of-lesson"
+        },
+        {
+          "id": "kc-1-5-q1",
+          "type": "knowledge-check",
+          "title": "What is the key difference between real stress and perceived",
+          "prompt": "What is the key difference between real stress and perceived stress?",
+          "questionType": "multiple-choice",
+          "options": [
+            {
+              "id": "a",
+              "text": "Real stress is harmful; perceived stress is not"
+            },
+            {
+              "id": "b",
+              "text": "Real stress comes from actual threats; perceived stress comes from how you interpret a situation"
+            },
+            {
+              "id": "c",
+              "text": "Perceived stress is more dangerous than real stress"
+            },
+            {
+              "id": "d",
+              "text": "There is no meaningful difference between them"
+            }
+          ],
+          "correctAnswer": "b",
+          "explanation": "Real stressors are actual events or threats. Perceived stressors arise from how you interpret or anticipate situations. Both trigger the same bodily stress response.",
+          "placement": "end-of-lesson"
+        },
+        {
+          "id": "kc-1-5-q2",
+          "type": "knowledge-check",
+          "title": "A coworker worries all weekend about a Monday meeting that t",
+          "prompt": "A coworker worries all weekend about a Monday meeting that turns out fine. This is an example of:",
+          "questionType": "multiple-choice",
+          "options": [
+            {
+              "id": "a",
+              "text": "Real stress caused by a genuine workplace threat"
+            },
+            {
+              "id": "b",
+              "text": "Perceived stress , the anticipated threat was greater than the actual event"
+            },
+            {
+              "id": "c",
+              "text": "Healthy stress that motivates preparation"
+            },
+            {
+              "id": "d",
+              "text": "A normal reaction that requires no attention"
+            }
+          ],
+          "correctAnswer": "b",
+          "explanation": "This is perceived stress. The coworker's body responded to an imagined threat all weekend, even though the actual event turned out fine. Mindset shapes perception.",
+          "placement": "end-of-lesson"
+        },
+        {
+          "id": "kc-1-5-q3",
+          "type": "knowledge-check",
+          "title": "Why is understanding the difference between real and perceiv",
+          "prompt": "Why is understanding the difference between real and perceived stress important for MentaLIFE?",
+          "questionType": "multiple-choice",
+          "options": [
+            {
+              "id": "a",
+              "text": "So you can ignore all stress that is not physically dangerous"
+            },
+            {
+              "id": "b",
+              "text": "Because perception is shaped by mindset , changing how you think changes how you experience stress"
+            },
+            {
+              "id": "c",
+              "text": "Real stress cannot be managed, only perceived stress can"
+            },
+            {
+              "id": "d",
+              "text": "It proves that stress is entirely in your imagination"
+            }
+          ],
+          "correctAnswer": "b",
+          "explanation": "Perception is shaped by mindset. When you understand that much of your stress comes from how you interpret events, you can use mindset tools to change that interpretation , and reduce your stress.",
+          "placement": "end-of-lesson"
+        }
+      ],
+      "metadata": {
+        "generatedAt": "2026-04-07T00:23:47.355Z",
+        "wordCount": 430,
+        "readingLevel": "8th-10th grade"
+      }
+    }
+  ]
+}

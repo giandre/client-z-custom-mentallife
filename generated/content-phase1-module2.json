@@ -1,0 +1,636 @@
+{
+  "moduleId": "zone-3",
+  "moduleTitle": "Stress Management",
+  "lessons": [
+    {
+      "lessonId": "lesson-3-1",
+      "moduleId": "zone-3",
+      "title": "Decreasing Self-Inflicted Stress",
+      "type": "video",
+      "duration": 6,
+      "videoSource": "client-synthesia",
+      "videoScript": "Zone 3 — Decreasing Self-Inflicted Stress",
+      "continuumPosition": "60-70%",
+      "objectives": [
+        "Identify patterns of self-inflicted stress in your own life",
+        "Understand how overcommitting, perfectionism, and poor boundaries create stress",
+        "Recognize the difference between stress you can control and stress you create"
+      ],
+      "contentBlocks": [
+        {
+          "id": "video-3-1",
+          "type": "video-embed",
+          "title": "Decreasing Self-Inflicted Stress",
+          "content": "<p>Watch this video to identify the stress patterns you may be creating yourself , and how to break the cycle.</p>",
+          "placement": "inline"
+        },
+        {
+          "id": "int-3-1-accordion-stress-patterns",
+          "type": "warning-signs",
+          "title": "Self-Inflicted Stress Patterns",
+          "placement": "after-section",
+          "sectionId": "video-3-1",
+          "sections": [
+            {
+              "id": "int-3-1-accordion-stress-patterns-0",
+              "heading": "Overcommitting",
+              "content": "<p>Saying yes to everything because you feel obligated. You take on more than you can handle, leaving no room for rest or flexibility.</p>"
+            },
+            {
+              "id": "int-3-1-accordion-stress-patterns-1",
+              "heading": "Perfectionism",
+              "content": "<p>Holding yourself to impossible standards and beating yourself up when you fall short. Nothing ever feels good enough.</p>"
+            },
+            {
+              "id": "int-3-1-accordion-stress-patterns-2",
+              "heading": "Poor Planning",
+              "content": "<p>Living reactively instead of proactively, leaving no margin for the unexpected. When life throws a curveball, there's no buffer.</p>"
+            },
+            {
+              "id": "int-3-1-accordion-stress-patterns-3",
+              "heading": "Ignoring Warning Signs",
+              "content": "<p>Pushing through fatigue, pain, or emotional exhaustion instead of listening. Your body and mind are sending signals you're choosing to ignore.</p>"
+            },
+            {
+              "id": "int-3-1-accordion-stress-patterns-4",
+              "heading": "Saying Yes When You Mean No",
+              "content": "<p>Sacrificing your peace to avoid conflict or disappointment. You prioritize everyone else's needs over your own well-being.</p>"
+            }
+          ]
+        },
+        {
+          "id": "text-3-1-2",
+          "type": "text",
+          "title": "Breaking the Cycle",
+          "content": "<p>Once you've identified patterns of self-inflicted stress, the next step is to replace them with healthier, more intentional habits. Flip through the cards below to see how each pattern can be transformed into a positive practice.</p>",
+          "sourceChunkIds": [
+            "chunk-6"
+          ],
+          "placement": "inline"
+        },
+        {
+          "id": "int-3-1-flashcards-breaking-cycle",
+          "type": "toolkit-identify",
+          "title": "Breaking the Cycle: Pattern to Solution",
+          "placement": "after-section",
+          "sectionId": "text-3-1-2",
+          "toolkitCategory": "stress-patterns",
+          "toolkitLabel": "I recognize this pattern",
+          "toolkitPrompt": "Take an honest look at these self-inflicted stress patterns. <strong>Select the ones you recognize in yourself</strong> — awareness is the first step toward change.",
+          "toolkitSummaryTitle": "Patterns I Recognize",
+          "items": [
+            {
+              "title": "Overcommitting",
+              "content": "<p><strong>The Pattern:</strong> Saying yes to everything because you feel obligated, leaving no room for rest.</p><p><strong>The Solution:</strong> Prioritizing What Matters — pause and ask: Does this align with my priorities? Use a \"Yes–No–Not Now\" filter to protect your time and energy.</p>"
+            },
+            {
+              "title": "Perfectionism",
+              "content": "<p><strong>The Pattern:</strong> Holding yourself to impossible standards and beating yourself up when you fall short.</p><p><strong>The Solution:</strong> Growth Over Perfection — redefine success as consistent forward movement, not flawlessness. Celebrate small wins.</p>"
+            },
+            {
+              "title": "Poor Planning",
+              "content": "<p><strong>The Pattern:</strong> Living reactively instead of proactively, leaving no margin for the unexpected.</p><p><strong>The Solution:</strong> Intentional Structure — start each day with a realistic plan, leaving space for flexibility. Break big tasks into smaller steps.</p>"
+            },
+            {
+              "title": "Ignoring Warning Signs",
+              "content": "<p><strong>The Pattern:</strong> Pushing through fatigue, pain, or emotional exhaustion instead of listening.</p><p><strong>The Solution:</strong> Listening to Your Body & Mind — notice physical cues (fatigue, headaches) and emotional cues (irritability, low motivation). Schedule regular rest.</p>"
+            },
+            {
+              "title": "Saying Yes When You Mean No",
+              "content": "<p><strong>The Pattern:</strong> Sacrificing your peace to avoid conflict or disappointment.</p><p><strong>The Solution:</strong> Practicing Healthy Boundaries — give yourself permission to decline without overexplaining. Saying no to one thing is saying yes to your peace.</p>"
+            }
+          ]
+        },
+        {
+          "id": "callout-3-1-k",
+          "type": "callout",
+          "variant": "key-insight",
+          "title": "Awareness Is the First Step Toward Peace",
+          "content": "<p>When you learn to separate what's happening <em>to</em> you from what's being created <em>by</em> you, you begin to take your power back. That awareness is the first step toward peace, clarity, and resilience.</p>",
+          "placement": "inline"
+        },
+        {
+          "id": "callout-3-1-1",
+          "type": "callout",
+          "variant": "reflection",
+          "title": "Identifying Self-Inflicted Stressors",
+          "content": "<p>Take an honest look at your current life:</p><ol><li>Which self-inflicted stress pattern resonates most with you , overcommitting, perfectionism, poor planning, ignoring warning signs, or saying yes when you mean no?</li><li>How has this pattern shown up in the last week?</li><li>What would change if you replaced it with the healthier alternative?</li></ol>",
+          "placement": "after-section",
+          "sectionId": "text-3-1-2"
+        },
+        {
+          "id": "kc-3-1-q1",
+          "type": "knowledge-check",
+          "title": "Self-inflicted stress is stress that:",
+          "prompt": "Self-inflicted stress is stress that:",
+          "questionType": "multiple-choice",
+          "options": [
+            {
+              "id": "a",
+              "text": "Is caused by external events completely beyond your control"
+            },
+            {
+              "id": "b",
+              "text": "Results from your own patterns, choices, and behaviors , like overcommitting or perfectionism"
+            },
+            {
+              "id": "c",
+              "text": "Only affects people with anxiety disorders"
+            },
+            {
+              "id": "d",
+              "text": "Is not real stress because you created it yourself"
+            }
+          ],
+          "correctAnswer": "b",
+          "explanation": "Self-inflicted stress comes from patterns you can control , overcommitting, perfectionism, poor boundaries, procrastination, and saying yes when you mean no.",
+          "placement": "end-of-lesson"
+        },
+        {
+          "id": "kc-3-1-q2",
+          "type": "knowledge-check",
+          "title": "Someone who consistently takes on more tasks than they can h",
+          "prompt": "Someone who consistently takes on more tasks than they can handle is displaying which self-inflicted stress pattern?",
+          "questionType": "multiple-choice",
+          "options": [
+            {
+              "id": "a",
+              "text": "Perfectionism"
+            },
+            {
+              "id": "b",
+              "text": "Procrastination"
+            },
+            {
+              "id": "c",
+              "text": "Overcommitting"
+            },
+            {
+              "id": "d",
+              "text": "Ignoring warning signs"
+            }
+          ],
+          "correctAnswer": "c",
+          "explanation": "Overcommitting , saying yes to too many things , is one of the most common self-inflicted stress patterns. Breaking this cycle requires learning to set boundaries and say no.",
+          "placement": "end-of-lesson"
+        },
+        {
+          "id": "kc-3-1-q3",
+          "type": "knowledge-check",
+          "title": "The first step to breaking a self-inflicted stress pattern i",
+          "prompt": "The first step to breaking a self-inflicted stress pattern is:",
+          "questionType": "multiple-choice",
+          "options": [
+            {
+              "id": "a",
+              "text": "Immediately eliminating all sources of stress from your life"
+            },
+            {
+              "id": "b",
+              "text": "Recognizing and naming the pattern you are creating"
+            },
+            {
+              "id": "c",
+              "text": "Blaming external circumstances for the stress"
+            },
+            {
+              "id": "d",
+              "text": "Accepting that stress is an unavoidable part of life"
+            }
+          ],
+          "correctAnswer": "b",
+          "explanation": "Like the Mindset Swap, the first step is awareness , recognizing and naming the self-inflicted pattern so you can consciously choose a different response.",
+          "placement": "end-of-lesson"
+        }
+      ],
+      "metadata": {
+        "generatedAt": "2026-04-07T00:23:47.357Z",
+        "wordCount": 386,
+        "readingLevel": "8th-10th grade"
+      }
+    },
+    {
+      "lessonId": "lesson-3-2",
+      "moduleId": "zone-3",
+      "title": "Stress Relief Strategies, Tools and Practices",
+      "type": "video",
+      "duration": 10,
+      "videoSource": "client-synthesia",
+      "videoScript": "Zone 3 — Stress Relief Strategies",
+      "continuumPosition": "70-80%",
+      "objectives": [
+        "Apply at least 3 foundational stress prevention tools (self-awareness, boundaries, sleep, nutrition)",
+        "Practice immediate stress deactivation techniques (deep breathing, grounding, cold water reset)",
+        "Explain how stress management supports all three MentaLIFE outcomes",
+        "Select specific strategies, tools, or practices to adopt this week"
+      ],
+      "contentBlocks": [
+        {
+          "id": "video-3-2",
+          "type": "video-embed",
+          "title": "Stress Relief Strategies, Tools and Practices",
+          "content": "<p>Watch this video to explore the foundational tools and immediate techniques that help you manage and deactivate stress.</p>",
+          "placement": "inline"
+        },
+        {
+          "id": "int-3-2-1",
+          "type": "interactive",
+          "component": "toolkit-scenario",
+          "toolkitCategory": "prevention-toolkit",
+          "toolkitLabel": "Add to my prevention toolkit",
+          "toolkitPrompt": "You're building your personal stress prevention toolkit. Explore each foundational tool below, then <strong>select 2–3 tools</strong> you'll commit to practicing this week.",
+          "toolkitSummaryTitle": "My Prevention Toolkit",
+          "title": "Foundational Tools for Stress Management",
+          "items": [
+            {
+              "title": "Self-Awareness",
+              "content": "<p>Self-awareness is the ability to recognize your own patterns and identify when you may be contributing to your own stress. For instance, staying up late to binge-watch TV might feel harmless in the moment, but the exhaustion you experience the next day is avoidable. Choosing a consistent bedtime is a simple way to practice self-awareness.</p>"
+            },
+            {
+              "title": "Set Boundaries",
+              "content": "<p>Learning to say no without guilt is key to your peace. Pleasing everyone is not always a priority. Turning down a social invitation when you're physically or emotionally drained isn't selfish , it's self-respect.</p>"
+            },
+            {
+              "title": "Get Quality Sleep",
+              "content": "<p>Sleep is one of the most powerful and often overlooked tools for managing stress. A well-rested mind is sharper, calmer, and better equipped to handle daily challenges. Set a consistent bedtime and wake-up time, even on weekends. Limit screen time in the hour before bed. Create a sleep-friendly environment: cool, dark, and quiet. Protect your rest the same way you would protect an important meeting , because your health depends on it.</p>"
+            },
+            {
+              "title": "Eat to Nourish, Not Numb",
+              "content": "<p>Food has a direct impact on your mood, energy, and stress levels. It's tempting to reach for comfort foods when stressed, but those choices often leave you more drained. Choose foods that nourish: whole grains, lean proteins, fruits, vegetables, and healthy fats. Hydrate consistently. Caffeine and alcohol may feel like quick fixes, but they can intensify stress and disrupt sleep. Food is fuel for your brain and body , choose wisely.</p>"
+            },
+            {
+              "title": "Limit Negative Input",
+              "content": "<p>What you consume mentally is just as important as what you consume physically. The constant stream of news, social media, and entertainment can increase anxiety, comparison, and overstimulation. Be intentional about your \"media diet.\" Ask yourself: Is this content adding peace and value to my life, or is it taking it away? Replace endless scrolling with uplifting podcasts, books, or conversations that inspire growth.</p>"
+            },
+            {
+              "title": "Guard Your Circle",
+              "content": "<p>The people you surround yourself with have a direct influence on your stress levels. Consistently negative or energy-draining relationships can keep you stuck in cycles of frustration and anxiety. Minimize exposure to those who only take without giving, gossip without building, or discourage rather than support. Invest in relationships that bring encouragement, accountability, and joy. It's not about having a large circle , it's about having a healthy one.</p>"
+            },
+            {
+              "title": "Stick to Your Plan",
+              "content": "<p>Stress often spikes when life feels chaotic or unpredictable. Discipline is the antidote. By creating and sticking to a plan, you remove the daily decision fatigue that drains your energy and ramps up stress. Whether it's a financial budget, a workout routine, or a daily schedule, consistency builds confidence and stability. Your plan doesn't have to be perfect , it just has to keep you moving forward.</p>"
+            },
+            {
+              "title": "Practice Self-Compassion",
+              "content": "<p>No matter how disciplined or intentional you are, there will be days when you fall short. Stress management isn't about perfection , it's about persistence. When you miss the mark, resist the urge to criticize yourself. Instead, extend grace. Acknowledge the setback, learn from it, and reset. Self-compassion helps you recover more quickly, stay motivated, and continue moving toward your goals without being weighed down by guilt or shame.</p>"
+            },
+            {
+              "title": "Live With Intention",
+              "content": "<p>Make deliberate choices about how you spend your time, energy, and attention. Living with intention shifts you from simply reacting to life to actively designing it , ensuring your daily actions align with your priorities and values.</p>"
+            }
+          ],
+          "sourceChunkIds": [
+            "chunk-6"
+          ],
+          "placement": "after-section",
+          "sectionId": "video-3-2"
+        },
+        {
+          "id": "int-3-2-2",
+          "type": "interactive",
+          "component": "toolkit-scenario",
+          "toolkitCategory": "quick-resets",
+          "toolkitLabel": "Add to my go-to resets",
+          "toolkitPrompt": "When stress hits, you need quick tools that work in the moment. Explore these deactivation techniques, then <strong>select 2–3 techniques</strong> you'll reach for when you feel overwhelmed.",
+          "toolkitSummaryTitle": "My Go-To Resets",
+          "title": "10 Quick Stress Deactivation Techniques",
+          "items": [
+            {
+              "title": "Deep Breathing (4-4-4)",
+              "content": "<p>Inhale deeply through your nose for four counts, hold for four, then exhale slowly through your mouth for four. This calms your nervous system, lowers your heart rate, and signals safety to your brain. Even 2–3 minutes can make a noticeable difference.</p>"
+            },
+            {
+              "title": "5-4-3-2-1 Grounding",
+              "content": "<p>Bring yourself back to the present by noticing: five things you can see, four things you can touch, three things you can hear, two things you can smell, and one thing you can taste. This interrupts spiraling thoughts and restores calm.</p>"
+            },
+            {
+              "title": "Fresh Air & Sunlight",
+              "content": "<p>Even a few minutes outdoors can help lower cortisol levels, clear your mind, and reset your body's internal clock. Walking barefoot on grass or sand can help ground your body and release tension.</p>"
+            },
+            {
+              "title": "Move Your Body",
+              "content": "<p>Physical movement quickly reduces stress hormones. Try stretching, shaking out your arms, rolling your shoulders, or taking a brisk walk. Even short bursts of movement signal to your body that it's safe to release tension.</p>"
+            },
+            {
+              "title": "Progressive Muscle Relaxation",
+              "content": "<p>Starting at your toes and moving upward, tense each muscle group for 5 seconds, then release. This helps discharge physical stress stored in your body and promotes deep relaxation.</p>"
+            },
+            {
+              "title": "Visualization",
+              "content": "<p>Close your eyes and envision a peaceful place — a beach, a mountain, a haven. Imagine the sounds, smells, and sensations as vividly as possible. Visualization shifts your brain away from stress and toward calm.</p>"
+            },
+            {
+              "title": "Quick Journaling (Brain Dump)",
+              "content": "<p>Grab a piece of paper and write down everything on your mind without editing. Getting your thoughts out of your head and onto paper helps release mental clutter and reduces overwhelm.</p>"
+            },
+            {
+              "title": "Cold Water Reset",
+              "content": "<p>Splash cold water on your face or run your wrists under cold water. This activates the vagus nerve, which helps regulate your stress response and bring your body back into balance.</p>"
+            },
+            {
+              "title": "Gratitude in the Moment",
+              "content": "<p>Interrupt stress by naming three things you're grateful for right now. Gratitude shifts your focus away from what's wrong to what's right, creating an immediate mindset shift.</p>"
+            },
+            {
+              "title": "Sensory Grounding",
+              "content": "<p>Use your senses to calm your nervous system. Taste something comforting. Look at something joyful. Listen to calming music or nature sounds. Smell lavender, citrus, or eucalyptus. Touch soft fabrics or a warm blanket. Each sense provides an anchor back to the present.</p>"
+            }
+          ],
+          "sourceChunkIds": [
+            "chunk-7"
+          ],
+          "placement": "after-section",
+          "sectionId": "video-3-2"
+        },
+        {
+          "id": "int-3-2-3",
+          "type": "interactive",
+          "component": "tabs",
+          "title": "How Stress Management Supports the Three Outcomes",
+          "tabs": [
+            {
+              "label": "Happiness",
+              "content": "<p><strong>Stress Management Supports Happiness</strong></p><ul><li><strong>Regulates emotions:</strong> Managing stress helps reduce irritability, anxiety, and emotional fatigue , creating space for more joy, gratitude, and presence.</li><li><strong>Improves mindset:</strong> A calm mind allows for more positive thinking, fostering a greater sense of peace and contentment.</li><li><strong>Boosts mood chemistry:</strong> Stress-reduction techniques like deep breathing, movement, and laughter trigger endorphins and serotonin, naturally elevating mood.</li></ul>"
+            },
+            {
+              "label": "Healthiness",
+              "content": "<p><strong>Stress Management Supports Health</strong></p><ul><li><strong>Protects the body:</strong> Chronic stress can cause inflammation, disrupt sleep, raise blood pressure, and weaken immunity. Managing stress lowers these risks.</li><li><strong>Encourages healthy habits:</strong> People who handle stress well are more likely to stick to routines like regular exercise, proper sleep, and nutritious eating.</li><li><strong>Reduces internal strain:</strong> Stress management helps regulate hormones like cortisol, which when chronically high can contribute to heart disease, obesity, and burnout.</li></ul>"
+            },
+            {
+              "label": "High-Quality Living",
+              "content": "<p><strong>Stress Management Supports High-Quality Living</strong></p><ul><li><strong>Restores clarity and focus:</strong> When your mind is calm, you make clearer decisions and pursue meaningful experiences with intention.</li><li><strong>Improves relationships:</strong> Reducing stress enhances communication, patience, and emotional availability in your interactions.</li><li><strong>Maximizes energy:</strong> By easing the emotional and physical drain caused by stress, you reclaim energy and bandwidth for what truly matters.</li></ul>"
+            }
+          ],
+          "sourceChunkIds": [
+            "chunk-7"
+          ],
+          "placement": "after-section",
+          "sectionId": "video-3-2"
+        },
+        {
+          "id": "callout-3-2-1",
+          "type": "callout",
+          "variant": "reflection",
+          "title": "Identifying Strategies to Adopt",
+          "content": "<p>From the strategies, tools, and practices presented:</p><ol><li>Pick <strong>two</strong> foundational tools you'll commit to practicing this week.</li><li>Pick <strong>two</strong> deactivation techniques you'll try when stress hits.</li><li>Write them down , commitment starts with clarity.</li></ol>",
+          "placement": "after-section"
+        },
+        {
+          "id": "callout-3-2-2",
+          "type": "callout",
+          "variant": "reflection",
+          "title": "Your Stress Management Commitment",
+          "content": "<p>Reflect on what you've learned about stress in this course , from the science behind it to the strategies for managing it. How will you handle stress differently starting today?</p>",
+          "placement": "after-section"
+        },
+        {
+          "id": "wc-3-2",
+          "type": "wellness-check",
+          "title": "Zone 3 Wellness Check",
+          "questions": [
+            {
+              "id": "wc-3-2-q1",
+              "stem": "MentaLIFE identifies three sources of stress: external, internal, and self-inflicted. Which of the following is the best example of self-inflicted stress?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "A sudden job layoff that you didn't see coming"
+                },
+                {
+                  "id": "b",
+                  "text": "A fear of failure that you've carried since childhood"
+                },
+                {
+                  "id": "c",
+                  "text": "Saying yes to every request even when you're already overwhelmed"
+                },
+                {
+                  "id": "d",
+                  "text": "A family emergency that requires your immediate attention"
+                }
+              ],
+              "correctAnswer": "c",
+              "explanation": "Self-inflicted stress is the stress we bring on ourselves , overcommitting, perfectionism, poor planning, and saying yes when we mean no. The good news? Once you see these patterns, you can change them. That's where your power lives."
+            },
+            {
+              "id": "wc-3-2-q2",
+              "stem": "You're in a high-pressure moment and feel your heart racing and your thoughts spiraling. Which combination of techniques would help you deactivate the stress response right now?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "Check social media and eat comfort food to distract yourself"
+                },
+                {
+                  "id": "b",
+                  "text": "Deep breathing (4-4-4) to calm your nervous system, followed by 5-4-3-2-1 grounding to return to the present"
+                },
+                {
+                  "id": "c",
+                  "text": "Push through the stress and deal with it later when you have more time"
+                },
+                {
+                  "id": "d",
+                  "text": "Call someone and talk about everything that's going wrong"
+                }
+              ],
+              "correctAnswer": "b",
+              "explanation": "Deep breathing (inhale 4, hold 4, exhale 4) directly calms your nervous system and lowers your heart rate. The 5-4-3-2-1 grounding technique then interrupts spiraling thoughts by anchoring you to your senses. Together, they bring you back to the present , calm and in control."
+            },
+            {
+              "id": "wc-3-2-q3",
+              "stem": "Which of the following foundational tools helps you 'stop the cycle of self-inflicted stress' by protecting your time and energy?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "Eating more comfort food when you're overwhelmed"
+                },
+                {
+                  "id": "b",
+                  "text": "Setting boundaries , giving yourself permission to decline without overexplaining"
+                },
+                {
+                  "id": "c",
+                  "text": "Pushing through exhaustion to prove your dedication"
+                },
+                {
+                  "id": "d",
+                  "text": "Scrolling social media to take your mind off things"
+                }
+              ],
+              "correctAnswer": "b",
+              "explanation": "Setting boundaries means giving yourself permission to say no when you need to , without guilt or overexplanation. Saying no to one thing is saying yes to something else: your peace, your health, or your priorities. It's one of the most powerful foundational tools for breaking the cycle of self-inflicted stress."
+            },
+            {
+              "id": "wc-3-2-q4",
+              "stem": "Your coworker is venting about a deadline and you feel your shoulders tighten and your jaw clench. Which stress deactivation technique would help you in this exact moment?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "Progressive muscle relaxation , tense and release your muscle groups to discharge the physical stress"
+                },
+                {
+                  "id": "b",
+                  "text": "Go home early and avoid the situation entirely"
+                },
+                {
+                  "id": "c",
+                  "text": "Tell your coworker to stop complaining"
+                },
+                {
+                  "id": "d",
+                  "text": "Ignore the physical sensations and power through the conversation"
+                }
+              ],
+              "correctAnswer": "a",
+              "explanation": "Progressive muscle relaxation is ideal when you notice physical tension building. Starting at your toes and moving upward, tense each muscle group for 5 seconds, then release. This helps discharge the physical stress stored in your body and promotes calm , even in the middle of a conversation."
+            },
+            {
+              "id": "wc-3-2-q5",
+              "stem": "How does stress management support the MentaLIFE outcome of Happiness?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "It eliminates all negative emotions so you feel happy all the time"
+                },
+                {
+                  "id": "b",
+                  "text": "It reduces irritability and emotional fatigue, improves your mindset, and triggers mood-boosting chemicals like endorphins and serotonin"
+                },
+                {
+                  "id": "c",
+                  "text": "It makes your problems go away so there's nothing to be stressed about"
+                },
+                {
+                  "id": "d",
+                  "text": "It only supports healthiness, not happiness"
+                }
+              ],
+              "correctAnswer": "b",
+              "explanation": "Managing stress creates space for more joy, gratitude, and presence. It calms the mind for positive thinking and triggers natural mood elevators like endorphins and serotonin through techniques like deep breathing, movement, and laughter. Stress management doesn't eliminate problems , it helps you experience more happiness through them."
+            },
+            {
+              "id": "wc-3-2-q6",
+              "stem": "Self-inflicted stress from perfectionism can be replaced with which healthier approach?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "Lowering all your standards so nothing is ever disappointing"
+                },
+                {
+                  "id": "b",
+                  "text": "Shifting your focus from 'perfect' to 'growth' , celebrating small wins and redefining success as consistent forward movement"
+                },
+                {
+                  "id": "c",
+                  "text": "Working harder and longer until the result is flawless"
+                },
+                {
+                  "id": "d",
+                  "text": "Avoiding any task that might reveal imperfection"
+                }
+              ],
+              "correctAnswer": "b",
+              "explanation": "Perfectionism is a common source of self-inflicted stress. The antidote isn't lowering your standards , it's redefining success as making consistent forward movement rather than achieving flawlessness. Celebrating small wins reinforces positive momentum and breaks the cycle of never feeling 'good enough.'"
+            }
+          ],
+          "placement": "end-of-lesson"
+        },
+        {
+          "id": "kc-3-2-q1",
+          "type": "knowledge-check",
+          "title": "What is the difference between foundational tools and deacti",
+          "prompt": "What is the difference between foundational tools and deactivation techniques in stress management?",
+          "questionType": "multiple-choice",
+          "options": [
+            {
+              "id": "a",
+              "text": "There is no difference , they are the same thing"
+            },
+            {
+              "id": "b",
+              "text": "Foundational tools prevent stress buildup daily; deactivation techniques address acute stress in the moment"
+            },
+            {
+              "id": "c",
+              "text": "Deactivation techniques are for daily use; foundational tools are for emergencies"
+            },
+            {
+              "id": "d",
+              "text": "Foundational tools require professional guidance; deactivation techniques do not"
+            }
+          ],
+          "correctAnswer": "b",
+          "explanation": "Foundational tools (like boundaries, sleep hygiene, media diet) prevent stress from accumulating. Deactivation techniques (like deep breathing, grounding, body scan) address stress when it hits.",
+          "placement": "end-of-lesson"
+        },
+        {
+          "id": "kc-3-2-q2",
+          "type": "knowledge-check",
+          "title": "Your coworker is venting about a deadline and you feel your ",
+          "prompt": "Your coworker is venting about a deadline and you feel your shoulders tighten. Which deactivation technique would help right now?",
+          "questionType": "multiple-choice",
+          "options": [
+            {
+              "id": "a",
+              "text": "Set a new boundary with your coworker about venting"
+            },
+            {
+              "id": "b",
+              "text": "Practice deep breathing or a body scan to release the physical tension"
+            },
+            {
+              "id": "c",
+              "text": "Improve your sleep schedule tonight"
+            },
+            {
+              "id": "d",
+              "text": "Journal about the experience later this evening"
+            }
+          ],
+          "correctAnswer": "b",
+          "explanation": "Deep breathing or a body scan are immediate deactivation techniques. When you notice physical stress signs (tight shoulders), an in-the-moment technique helps you regain control right away.",
+          "placement": "end-of-lesson"
+        },
+        {
+          "id": "kc-3-2-q3",
+          "type": "knowledge-check",
+          "title": "How does effective stress management support the three Menta",
+          "prompt": "How does effective stress management support the three MentaLIFE outcomes?",
+          "questionType": "multiple-choice",
+          "options": [
+            {
+              "id": "a",
+              "text": "It only affects healthiness , the other outcomes require different approaches"
+            },
+            {
+              "id": "b",
+              "text": "It eliminates all stress, which automatically creates happiness"
+            },
+            {
+              "id": "c",
+              "text": "Reducing stress improves emotional balance (happiness), physical health (healthiness), and daily energy (high-quality living)"
+            },
+            {
+              "id": "d",
+              "text": "It has no direct connection to the outcomes"
+            }
+          ],
+          "correctAnswer": "c",
+          "explanation": "Stress management supports all three outcomes: reducing stress improves emotional balance (happiness), protects physical health (healthiness), and frees up energy for intentional living (high-quality living).",
+          "placement": "end-of-lesson"
+        }
+      ],
+      "metadata": {
+        "generatedAt": "2026-04-07T00:23:47.357Z",
+        "wordCount": 79,
+        "readingLevel": "8th-10th grade"
+      }
+    }
+  ]
+}

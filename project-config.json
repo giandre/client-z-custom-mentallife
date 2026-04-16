@@ -1,0 +1,49 @@
+{
+  "localization": {
+    "region": "US",
+    "country": "United States",
+    "demographics": {
+      "allowed": [
+        "African American",
+        "Hispanic Latino",
+        "Asian American",
+        "Caucasian",
+        "South Asian",
+        "multiracial"
+      ],
+      "excluded": [],
+      "reasoning": "US-based corporate wellness audience — diverse American workforce representation"
+    }
+  },
+  "imageStyle": {
+    "primary": "cinematic-digital-watercolor",
+    "name": "Cinematic Digital Watercolor",
+    "description": "Painterly brushstrokes with cinematic lighting, warm-to-cool temperature shift reflecting the continuum metaphor",
+    "characteristics": [
+      "Cinematic digital watercolor with painterly brushstrokes",
+      "Warm golden and amber tones for growth/thriving scenes",
+      "Cool slate and muted tones for struggle/challenge scenes",
+      "Soft bokeh backgrounds with intentional light",
+      "Emotional depth through color temperature",
+      "Professional wellness setting — offices, parks, gyms, homes"
+    ],
+    "model": "comfyui-zimage",
+    "workflow": "Z-ImageAPI.json"
+  },
+  "qualityStandards": {
+    "textFree": true,
+    "diverseRepresentation": true,
+    "traumaInformed": true,
+    "specificClothing": true,
+    "handPositions": true,
+    "actionBasedPoses": true
+  },
+  "contentContext": {
+    "topic": "Mental wellness, mindset, stress management, healthy habits and routines",
+    "targetAudience": "Corporate professionals enrolled in workplace wellness programs (25-55 years old)",
+    "setting": "Modern professional environments, home spaces, outdoor wellness settings, gyms"
+  },
+  "sampleTestsGenerated": 0,
+  "sampleTestsPassed": false,
+  "configuredAt": "2026-03-22T23:30:00.000Z"
+}

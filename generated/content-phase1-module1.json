@@ -1,0 +1,609 @@
+{
+  "moduleId": "zone-2",
+  "moduleTitle": "MentaLIFE Pillar #1: Mindset Growth",
+  "lessons": [
+    {
+      "lessonId": "lesson-2-1",
+      "moduleId": "zone-2",
+      "title": "The Power of Mindset",
+      "type": "video",
+      "duration": 6,
+      "videoSource": "client-synthesia",
+      "videoScript": "Zone 2 — The Power of Mindset",
+      "continuumPosition": "40-50%",
+      "objectives": [
+        "Define mindset as beliefs, attitudes, and assumptions that shape how you live",
+        "Recognize micro-mindsets and how they influence specific situations",
+        "Understand that neuroplasticity means your mindset can change",
+        "Identify toxic mindsets and understand how they developed"
+      ],
+      "contentBlocks": [
+        {
+          "id": "video-2-1",
+          "type": "video-embed",
+          "title": "The Power of Mindset",
+          "content": "<p>Watch this video to understand what mindset really is , and why it's the invisible force shaping your entire life.</p>",
+          "placement": "inline"
+        },
+        {
+          "id": "text-2-1-1",
+          "type": "text",
+          "title": "The Invisible Force Behind Everything",
+          "content": "<p>Mindset is the collection of beliefs, attitudes, and assumptions you hold about everything , yourself, others, your past, your future, your capabilities, and even your limitations. It shapes how you think, how you feel, how you act, and how you interpret the world around you.</p><p>Your mindset is not just something you have. It's something that is actively shaping your life , every single day.</p><p>While we all carry a general mindset that guides how we navigate life, we also develop what we call <strong>micro-mindsets</strong> , smaller, situation-specific beliefs that influence how you respond in specific moments. How you approach challenges, how you respond to feedback, how you interpret setbacks, and how you show up in relationships.</p><p>Some mindsets are positive , they help you see possibilities, build resilience, and push you toward confident action. Others are negative , they keep you stuck in cycles of self-doubt, fear, and avoidance.</p><p><strong>Positive mindsets open doors. Negative mindsets close them , before you even try.</strong></p>",
+          "sourceChunkIds": [
+            "chunk-4"
+          ],
+          "placement": "inline"
+        },
+        {
+          "id": "int-2-1-accordion-micro-mindsets",
+          "type": "mindset-lens",
+          "title": "Types of Micro-Mindsets",
+          "placement": "after-section",
+          "sectionId": "text-2-1-1",
+          "sections": [
+            {
+              "id": "int-2-1-accordion-micro-mindsets-0",
+              "heading": "Money Mindset",
+              "content": "<p>Your beliefs about money, earning, spending, and financial possibility. A growth money mindset says: \"I can learn to manage money and build wealth.\" A fixed money mindset says: \"I'll never be good with money.\"</p>"
+            },
+            {
+              "id": "int-2-1-accordion-micro-mindsets-1",
+              "heading": "Relationship Mindset",
+              "content": "<p>How you approach trust, vulnerability, and connection with others. A growth relationship mindset welcomes repair and learning. A fixed one avoids conflict and assumes the worst.</p>"
+            },
+            {
+              "id": "int-2-1-accordion-micro-mindsets-2",
+              "heading": "Health Mindset",
+              "content": "<p>Your beliefs about your body, fitness, and well-being. A growth health mindset says: \"I can improve my health through consistent choices.\" A fixed one says: \"It's too late for me.\"</p>"
+            },
+            {
+              "id": "int-2-1-accordion-micro-mindsets-3",
+              "heading": "Work Mindset",
+              "content": "<p>How you approach challenges, feedback, and growth in your career. A growth work mindset sees setbacks as learning opportunities. A fixed one sees them as proof of limitation.</p>"
+            },
+            {
+              "id": "int-2-1-accordion-micro-mindsets-4",
+              "heading": "Time Mindset",
+              "content": "<p>Your beliefs about how you use and value your time. A growth time mindset prioritizes intention. A fixed one feels perpetually busy without purpose.</p>"
+            }
+          ]
+        },
+        {
+          "id": "callout-2-1-s",
+          "type": "callout",
+          "variant": "science",
+          "title": "Your Brain Can Change , Neuroplasticity",
+          "content": "<p>Your brain is designed to grow and adapt , a process known as <strong>neuroplasticity</strong>. Every time you practice gratitude, learn something new, or challenge an old belief, you are literally reshaping your brain. And with consistency, those changes can become lasting.</p>",
+          "placement": "inline"
+        },
+        {
+          "id": "text-2-1-2",
+          "type": "text",
+          "title": "Mindset Development and Influences",
+          "content": "<p>Your mindset didn't appear from nowhere. It was shaped by your environment, your upbringing, your experiences, and the people around you. Maybe you grew up in an environment that discouraged risk-taking. Maybe you were told you weren't smart enough, talented enough, or capable enough. Those messages , whether spoken or implied , became part of your internal narrative.</p><p>You've likely heard the phrase \"a product of your environment.\" That often points directly to mindset. You may have also heard of \"generational curses.\" Those, too, are deeply connected to mindset. The way we think shapes the way we live. And often, we repeat what we know, unaware of how limiting those patterns truly are.</p><p>But here's the truth: <strong>understanding where your mindset came from doesn't mean you have to keep it.</strong> You are not bound to be a product of your environment or a prisoner of your past. Once you become aware, you can evolve.</p>",
+          "sourceChunkIds": [
+            "chunk-4"
+          ],
+          "placement": "inline"
+        },
+        {
+          "id": "text-2-1-3",
+          "type": "text",
+          "title": "Your Mindset Shapes Everything",
+          "content": "<p>Take a moment to reflect on how you show up in life. Your mindset shapes:</p><ul><li>The <strong>actions</strong> you take or choose not to take</li><li>The way you <strong>respond</strong> to challenges and setbacks</li><li>Your willingness to <strong>grow</strong>, adapt, and change</li><li>How you interpret <strong>success, failure, and opportunity</strong></li><li>Whether you find joy only in sunshine , or also in storms</li></ul><p>When you begin examining your mindset, you start to notice the invisible force that guides your decisions, shapes your habits, and ultimately defines your quality of life. The good news? Mindset isn't fixed. With awareness, intention, and consistent practice, it can become your greatest strength.</p>",
+          "sourceChunkIds": [
+            "chunk-4"
+          ],
+          "placement": "inline"
+        },
+        {
+          "id": "callout-2-1-1",
+          "type": "callout",
+          "variant": "reflection",
+          "title": "Identifying Toxic Mindsets",
+          "content": "<p>Pause and reflect on the mindsets that have been influencing your decisions:</p><ol><li>What negative or limiting belief have you been carrying , about yourself, your abilities, or your potential?</li><li>Where did it come from? Was it something you experienced, something you were told, or something your environment conditioned into you?</li><li>Is it actually true , or is it a story you've been repeating?</li></ol>",
+          "placement": "after-section",
+          "sectionId": "text-2-1-3"
+        },
+        {
+          "id": "kc-2-1-q1",
+          "type": "knowledge-check",
+          "title": "MentaLIFE defines mindset as:",
+          "prompt": "MentaLIFE defines mindset as:",
+          "questionType": "multiple-choice",
+          "options": [
+            {
+              "id": "a",
+              "text": "Your IQ level and natural intelligence"
+            },
+            {
+              "id": "b",
+              "text": "The collection of beliefs, attitudes, and assumptions that shape how you experience and respond to life"
+            },
+            {
+              "id": "c",
+              "text": "A personality trait that is fully determined by genetics"
+            },
+            {
+              "id": "d",
+              "text": "Your level of education and professional training"
+            }
+          ],
+          "correctAnswer": "b",
+          "explanation": "Mindset is your collection of beliefs, attitudes, and assumptions , the lens through which you interpret everything that happens to you.",
+          "placement": "end-of-lesson"
+        },
+        {
+          "id": "kc-2-1-q2",
+          "type": "knowledge-check",
+          "title": "What are micro-mindsets?",
+          "prompt": "What are micro-mindsets?",
+          "questionType": "multiple-choice",
+          "options": [
+            {
+              "id": "a",
+              "text": "Small, insignificant thoughts that don't matter"
+            },
+            {
+              "id": "b",
+              "text": "Situation-specific beliefs that influence how you handle particular areas of life"
+            },
+            {
+              "id": "c",
+              "text": "Mindsets that only children have"
+            },
+            {
+              "id": "d",
+              "text": "Scientific measurements of brain activity"
+            }
+          ],
+          "correctAnswer": "b",
+          "explanation": "Micro-mindsets are situation-specific beliefs. You might have a growth mindset about fitness but a fixed mindset about finances , each area of life has its own micro-mindset.",
+          "placement": "end-of-lesson"
+        },
+        {
+          "id": "kc-2-1-q3",
+          "type": "knowledge-check",
+          "title": "Why does neuroplasticity matter for mindset growth?",
+          "prompt": "Why does neuroplasticity matter for mindset growth?",
+          "questionType": "multiple-choice",
+          "options": [
+            {
+              "id": "a",
+              "text": "It doesn't , mindset is fixed by age 25"
+            },
+            {
+              "id": "b",
+              "text": "It proves that your brain can form new neural pathways, meaning your mindset can change at any age"
+            },
+            {
+              "id": "c",
+              "text": "It only applies to learning academic subjects"
+            },
+            {
+              "id": "d",
+              "text": "It makes mindset change happen instantly"
+            }
+          ],
+          "correctAnswer": "b",
+          "explanation": "Neuroplasticity means your brain can form new neural pathways throughout your life. This is the science behind why mindset change is possible , your beliefs are not permanently wired.",
+          "placement": "end-of-lesson"
+        }
+      ],
+      "metadata": {
+        "generatedAt": "2026-04-07T00:23:47.356Z",
+        "wordCount": 529,
+        "readingLevel": "8th-10th grade"
+      }
+    },
+    {
+      "lessonId": "lesson-2-2",
+      "moduleId": "zone-2",
+      "title": "Mindset Growth Strategies",
+      "type": "video",
+      "duration": 10,
+      "videoSource": "client-synthesia",
+      "videoScript": "Zone 2 — Mindset Growth Strategies",
+      "continuumPosition": "50-60%",
+      "objectives": [
+        "Differentiate between growth mindset (abilities develop through effort) and fixed mindset (traits are static)",
+        "Apply the 4-step Mindset Swap technique to reframe a limiting belief",
+        "Identify at least 3 daily mindset growth tools to practice",
+        "Select specific strategies to commit to this week"
+      ],
+      "contentBlocks": [
+        {
+          "id": "video-2-2",
+          "type": "video-embed",
+          "title": "Mindset Growth Strategies",
+          "content": "<p>Watch this video to learn the strategies and tools for reshaping your mindset , starting with the Growth vs. Fixed framework.</p>",
+          "placement": "inline"
+        },
+        {
+          "id": "int-2-2-flashcards-growth-vs-fixed",
+          "type": "diverging-paths",
+          "title": "Growth Mindset vs. Fixed Mindset",
+          "placement": "after-section",
+          "sectionId": "video-2-2",
+          "cards": [
+            {
+              "front": "(Positive) Growth Mindset",
+              "back": "The belief that your intelligence, abilities, and skills can be developed through effort, learning, and persistence. You begin to trust your ability to evolve. You welcome learning. You embrace effort. Challenges become opportunities. Setbacks become setups for growth."
+            },
+            {
+              "front": "(Negative) Fixed Mindset",
+              "back": "The belief that traits are static, unchangeable, and limited. Those with a fixed mindset tend to avoid challenges, give up quickly, and assume their limitations are permanent. A fixed mindset is often rooted in one thing: fear. Fear of not being enough."
+            }
+          ]
+        },
+        {
+          "id": "callout-2-2-k",
+          "type": "callout",
+          "variant": "key-insight",
+          "title": "Your Mindset Shapes Everything",
+          "content": "<p>How you pursue goals, how you interpret obstacles, how you recover from setbacks, and how you show up for yourself , your mindset shapes it all. The moment you decide to grow, you give yourself permission to evolve, to improve, and to become. That is where high-quality living begins.</p>",
+          "placement": "inline"
+        },
+        {
+          "id": "text-2-2-2",
+          "type": "text",
+          "title": "Give Yourself Grace",
+          "content": "<p>If you've come to realize that your current mindsets may not support the life you desire, good. That awareness is the first, and most important, step.</p><p>Maybe you've never been in an environment that encouraged growth. Maybe your early influences , family, culture, or religion , shaped beliefs that no longer serve you. That's not your fault. But it is your responsibility to challenge those beliefs and choose differently.</p><p><strong>MentaLIFE permits you to release the narratives that hold you back.</strong> You are not bound to be a product of your environment or a prisoner of your past. Once you become aware, you can evolve.</p><p>Mindset growth takes time. It requires consistency, self-awareness, and accountability. But your desire for a better life is strong enough to carry you through the discomfort of change. Dream boldly and then take action. And remember , mindset work is never complete. As life evolves, so must your thinking. Because growth is not a destination; it's a way of life.</p>",
+          "sourceChunkIds": [
+            "chunk-4"
+          ],
+          "placement": "inline"
+        },
+        {
+          "id": "int-2-2-1",
+          "type": "interactive",
+          "component": "timeline",
+          "title": "The 4-Step Mindset Swap",
+          "content": "<p>Use this simple process to start rewiring your mindset today. Walk through each step, using the example as a guide, then apply it to your own limiting belief.</p>",
+          "items": [
+            {
+              "step": 1,
+              "title": "Identify the Fixed Belief",
+              "content": "<p>Name one fixed belief that has been holding you back.</p><p><strong>Example:</strong> \"I'm just not good with money.\"</p>"
+            },
+            {
+              "step": 2,
+              "title": "Trace Its Origin",
+              "content": "<p>Ask yourself where this belief came from. Was it based on an experience? Something someone told you? Cultural conditioning?</p>"
+            },
+            {
+              "step": 3,
+              "title": "Replace with a Growth Belief",
+              "content": "<p>Reframe it with a growth-focused belief that opens the door to possibility.</p><p><strong>Example:</strong> \"I can learn how to manage money by educating myself and practicing better habits.\"</p>"
+            },
+            {
+              "step": 4,
+              "title": "Take One Small Action",
+              "content": "<p>Reinforce your new belief by taking one small action that aligns with it.</p><p><strong>Example:</strong> Read a personal finance article today, create a simple budget, or save $5 in a jar.</p>"
+            }
+          ],
+          "sourceChunkIds": [
+            "chunk-4"
+          ],
+          "placement": "after-section",
+          "sectionId": "text-2-2-2"
+        },
+        {
+          "id": "int-2-2-2",
+          "type": "interactive",
+          "component": "toolkit-scenario",
+          "toolkitCategory": "mindset-tools",
+          "toolkitLabel": "Add to my toolkit",
+          "toolkitPrompt": "You're building your personal growth toolkit. Explore each strategy below, then <strong>select the 2–3 tools</strong> you'll commit to practicing this week.",
+          "toolkitSummaryTitle": "My Growth Toolkit",
+          "title": "10 Tools for Growing Your Mindset",
+          "content": "<p>Practical ways to engage your brain's ability to grow. You don't need to do all of these at once , start with 2–3 that resonate with you.</p>",
+          "items": [
+            {
+              "title": "Start Each Day with Positivity",
+              "content": "<p>Prayer, gratitude, or even one intentional act of kindness can reset your focus and set the tone for your entire day.</p>"
+            },
+            {
+              "title": "Speak Daily Affirmations",
+              "content": "<p>Keep saying what you want to believe until it becomes real to you. Repetition is how new neural pathways are formed.</p>"
+            },
+            {
+              "title": "Challenge Negative Thoughts in Real Time",
+              "content": "<p>Don't let them slide by unchecked. Push back immediately. When a negative thought appears, acknowledge it and replace it with a constructive one.</p>"
+            },
+            {
+              "title": "Question Your Beliefs",
+              "content": "<p>Where did they come from? Do they still serve you? Many of our beliefs were inherited, not chosen. Examine them with fresh eyes.</p>"
+            },
+            {
+              "title": "Evaluate Your Reactions",
+              "content": "<p>Ask if your reactions are moving you toward growth or holding you back. Awareness of your patterns is the first step toward changing them.</p>"
+            },
+            {
+              "title": "Hold Yourself Accountable",
+              "content": "<p>Even in private. Remember, your mindset is always paying attention , even when no one else is watching.</p>"
+            },
+            {
+              "title": "Audit Your Environment",
+              "content": "<p>Step back from constant negativity, no matter how familiar it feels. Your environment shapes your thoughts more than you realize.</p>"
+            },
+            {
+              "title": "Replace Negative Mindsets with Positive Ones",
+              "content": "<p>Spot the limiting belief, then deliberately choose a new, empowering one to replace it. This is the Mindset Swap in action.</p>"
+            },
+            {
+              "title": "Practice Small Wins Consistently",
+              "content": "<p>Every time you follow through on a new thought or action, you strengthen your brain's new wiring. Small victories compound over time.</p>"
+            },
+            {
+              "title": "Proclaim Your New Mindset to Someone You Trust",
+              "content": "<p>Share your shift with a friend, mentor, or coach. Speaking it out loud adds accountability, invites encouragement, and reinforces your commitment.</p>"
+            }
+          ],
+          "sourceChunkIds": [
+            "chunk-5"
+          ],
+          "placement": "after-section",
+          "sectionId": "text-2-2-2"
+        },
+        {
+          "id": "callout-2-2-1",
+          "type": "callout",
+          "variant": "reflection",
+          "title": "Selecting Strategies to Practice",
+          "content": "<p>Now it's your turn. From the strategies and tools presented:</p><ol><li>Which 2–3 mindset growth tools will you commit to practicing this week?</li><li>Apply the 4-Step Mindset Swap to one limiting belief you've been carrying. What growth belief will you replace it with?</li><li>What one small action will you take today to reinforce your new belief?</li></ol>",
+          "placement": "after-section",
+          "sectionId": "text-2-2-2"
+        },
+        {
+          "id": "wc-2-2",
+          "type": "wellness-check",
+          "title": "Zone 2 Wellness Check",
+          "questions": [
+            {
+              "id": "wc-2-2-q1",
+              "stem": "In MentaLIFE, your mindset is described as 'the invisible force behind everything.' What does that actually mean for your daily life?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "Your mindset only matters when you're facing a major crisis"
+                },
+                {
+                  "id": "b",
+                  "text": "Your collection of beliefs, attitudes, and assumptions is actively shaping your actions, reactions, and quality of life , every single day"
+                },
+                {
+                  "id": "c",
+                  "text": "Mindset is just another word for personality, and personality can't change"
+                },
+                {
+                  "id": "d",
+                  "text": "Your mindset is determined entirely by your childhood and stays fixed for life"
+                }
+              ],
+              "correctAnswer": "b",
+              "explanation": "Your mindset isn't just something you have , it's something that is actively shaping how you think, feel, act, and interpret the world around you. It influences how you pursue goals, handle obstacles, recover from setbacks, and show up for yourself. And here's the powerful part , it can change."
+            },
+            {
+              "id": "wc-2-2-q2",
+              "stem": "Carol Dweck's research identifies two core mindsets. Someone with a fixed mindset tends to avoid challenges and give up quickly. What is the root cause of a fixed mindset, according to MentaLIFE?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "Laziness and lack of discipline"
+                },
+                {
+                  "id": "b",
+                  "text": "Not having access to education or resources"
+                },
+                {
+                  "id": "c",
+                  "text": "Fear , specifically, fear of not being enough"
+                },
+                {
+                  "id": "d",
+                  "text": "A chemical imbalance in the brain that cannot be changed"
+                }
+              ],
+              "correctAnswer": "c",
+              "explanation": "A fixed mindset is often rooted in fear , fear of not being enough. That fear keeps people stuck, avoiding challenges and assuming their limitations are permanent. But MentaLIFE teaches that once you become aware of that fear, you can choose differently. Your brain is designed to grow."
+            },
+            {
+              "id": "wc-2-2-q3",
+              "stem": "Your brain's ability to grow and rewire itself is called neuroplasticity. How does this apply to mindset growth?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "It means your brain stops changing after age 25, so mindset work must happen early"
+                },
+                {
+                  "id": "b",
+                  "text": "Every time you practice gratitude, challenge an old belief, or learn something new, you are physically reshaping your brain , and with consistency, those changes become lasting"
+                },
+                {
+                  "id": "c",
+                  "text": "It only applies to learning academic skills, not to changing beliefs or attitudes"
+                },
+                {
+                  "id": "d",
+                  "text": "It means positive thinking alone is enough to rewire your brain overnight"
+                }
+              ],
+              "correctAnswer": "b",
+              "explanation": "Neuroplasticity is your brain's built-in ability to adapt and grow. When you consistently challenge limiting beliefs, practice new thought patterns, and take small actions aligned with growth, you literally reshape your neural pathways. Change isn't just possible , it's how your brain was designed to work."
+            },
+            {
+              "id": "wc-2-2-q4",
+              "stem": "The 4-Step Mindset Swap gives you a practical process for rewiring a limiting belief. What is the correct order of the four steps?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "Take action, identify the belief, tell someone about it, hope for the best"
+                },
+                {
+                  "id": "b",
+                  "text": "Identify the fixed belief, trace its origin, replace it with a growth belief, take one small action"
+                },
+                {
+                  "id": "c",
+                  "text": "Replace the belief, identify its origin, take a big leap, celebrate the win"
+                },
+                {
+                  "id": "d",
+                  "text": "Ignore the belief, focus on positivity, avoid triggers, move on"
+                }
+              ],
+              "correctAnswer": "b",
+              "explanation": "The Mindset Swap is a deliberate, four-step process: (1) Name the fixed belief holding you back, (2) Trace where it came from, (3) Replace it with a growth-focused belief, and (4) Reinforce the new belief with one small action. Small victories compound over time , that's how real change happens."
+            },
+            {
+              "id": "wc-2-2-q5",
+              "stem": "Your colleague says, 'I'm just not a numbers person , I've never been good with math.' Using the Mindset Swap, what should they do first?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "Accept that some people just aren't meant for numbers and focus on their strengths"
+                },
+                {
+                  "id": "b",
+                  "text": "Identify that 'I'm not a numbers person' is a fixed belief, then trace where it came from"
+                },
+                {
+                  "id": "c",
+                  "text": "Immediately sign up for an advanced math course to prove themselves wrong"
+                },
+                {
+                  "id": "d",
+                  "text": "Tell them to just think positively and the math skills will come naturally"
+                }
+              ],
+              "correctAnswer": "b",
+              "explanation": "The first step in the Mindset Swap is to identify the fixed belief ('I'm not a numbers person') and then trace its origin. Where did this belief come from? Was it a childhood experience? A teacher's comment? Once they understand the source, they can replace it with a growth belief like 'I can learn to work with numbers by starting with the basics.'"
+            },
+            {
+              "id": "wc-2-2-q6",
+              "stem": "MentaLIFE says that mindset is often inherited from your environment. What does this mean for someone who grew up in a negative or limiting environment?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "They are permanently shaped by their upbringing and cannot change"
+                },
+                {
+                  "id": "b",
+                  "text": "Understanding where your mindset came from doesn't mean you have to keep it , once you become aware, you can evolve"
+                },
+                {
+                  "id": "c",
+                  "text": "They need professional help before they can begin any mindset work"
+                },
+                {
+                  "id": "d",
+                  "text": "They should cut off everyone from their past to start fresh"
+                }
+              ],
+              "correctAnswer": "b",
+              "explanation": "MentaLIFE permits you to release the narratives that hold you back. You are not bound to be a product of your environment or a prisoner of your past. Understanding where your beliefs came from is the first step , but it's your responsibility to challenge those beliefs and choose differently."
+            }
+          ],
+          "placement": "end-of-lesson"
+        },
+        {
+          "id": "kc-2-2-q1",
+          "type": "knowledge-check",
+          "title": "What is the FIRST step in the 4-Step Mindset Swap?",
+          "prompt": "What is the FIRST step in the 4-Step Mindset Swap?",
+          "questionType": "multiple-choice",
+          "options": [
+            {
+              "id": "a",
+              "text": "Act on the new belief immediately"
+            },
+            {
+              "id": "b",
+              "text": "Identify the limiting belief"
+            },
+            {
+              "id": "c",
+              "text": "Tell someone about your mindset problem"
+            },
+            {
+              "id": "d",
+              "text": "Practice positive affirmations"
+            }
+          ],
+          "correctAnswer": "b",
+          "explanation": "Step 1 is to Identify the limiting belief. You can't change what you don't recognize. The full sequence is: Identify → Trace the Origin → Reframe → Act on the New Belief.",
+          "placement": "end-of-lesson"
+        },
+        {
+          "id": "kc-2-2-q2",
+          "type": "knowledge-check",
+          "title": "A person who says \"I failed, so I must not be good at this\" ",
+          "prompt": "A person who says \"I failed, so I must not be good at this\" is displaying which type of mindset?",
+          "questionType": "multiple-choice",
+          "options": [
+            {
+              "id": "a",
+              "text": "Growth mindset , they are being honest about their abilities"
+            },
+            {
+              "id": "b",
+              "text": "Fixed mindset , they see failure as proof of permanent limitation"
+            },
+            {
+              "id": "c",
+              "text": "Balanced mindset , they are being realistic"
+            },
+            {
+              "id": "d",
+              "text": "Micro-mindset , it only applies to this one situation"
+            }
+          ],
+          "correctAnswer": "b",
+          "explanation": "This is a fixed mindset response , interpreting failure as proof of permanent limitation. A growth mindset would see it as: \"I failed, so I need to learn and try a different approach.\"",
+          "placement": "end-of-lesson"
+        },
+        {
+          "id": "kc-2-2-q3",
+          "type": "knowledge-check",
+          "title": "Which of the following is an example of a daily mindset grow",
+          "prompt": "Which of the following is an example of a daily mindset growth tool?",
+          "questionType": "multiple-choice",
+          "options": [
+            {
+              "id": "a",
+              "text": "Avoiding all challenging situations"
+            },
+            {
+              "id": "b",
+              "text": "Practicing intentional positive affirmations each morning"
+            },
+            {
+              "id": "c",
+              "text": "Waiting for your mindset to change naturally over time"
+            },
+            {
+              "id": "d",
+              "text": "Only reading self-help books"
+            }
+          ],
+          "correctAnswer": "b",
+          "explanation": "Positive affirmations are one of the daily mindset growth tools. Others include thought challenging, accountability partnerships, gratitude practice, and the Mindset Swap.",
+          "placement": "end-of-lesson"
+        }
+      ],
+      "metadata": {
+        "generatedAt": "2026-04-07T00:23:47.356Z",
+        "wordCount": 479,
+        "readingLevel": "8th-10th grade"
+      }
+    }
+  ]
+}

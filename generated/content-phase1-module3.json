@@ -1,0 +1,815 @@
+{
+  "moduleId": "zone-4",
+  "moduleTitle": "Healthy Routines and Habits",
+  "lessons": [
+    {
+      "lessonId": "lesson-4-1",
+      "moduleId": "zone-4",
+      "title": "Building a Lifestyle through Routines and Habits",
+      "type": "video",
+      "duration": 6,
+      "videoSource": "client-synthesia",
+      "videoScript": "Zone 4 — Building a Lifestyle through Routines and Habits",
+      "continuumPosition": "80-87%",
+      "objectives": [
+        "Differentiate between habits (automatic) and routines (structured sequences)",
+        "Understand that 45% of daily actions are habitual , and the 66-day formation timeline",
+        "Recognize the lifestyle health factor and its connection to quality of life"
+      ],
+      "contentBlocks": [
+        {
+          "id": "video-4-1",
+          "type": "video-embed",
+          "title": "Building a Lifestyle through Routines and Habits",
+          "content": "<p>Watch this video to understand the difference between habits and routines , and why building intentional ones is the third pillar of MentaLIFE.</p>",
+          "placement": "inline"
+        },
+        {
+          "id": "text-4-1-1",
+          "type": "text",
+          "title": "Habits vs. Routines: The Third Pillar",
+          "content": "<p>Lifestyle routines and habits are the third pillar of MentaLIFE because they play a massive role in your quality of life. Explore the difference between habits and routines in the cards below.</p><p>You may not realize it, but nearly <strong>45% of your daily actions are habits</strong> , almost half of your day is lived on autopilot. Imagine if most of those automatic actions actually supported your health, mindset, and long-term goals. That's precisely what MentaLIFE is about: building intentional routines that create powerful habits, which then shape a lifestyle aligned with your values and desires.</p>",
+          "sourceChunkIds": [
+            "chunk-8"
+          ],
+          "placement": "inline"
+        },
+        {
+          "id": "int-4-1-flashcards-habits-vs-routines",
+          "type": "building-blocks",
+          "title": "Habits vs. Routines",
+          "placement": "after-section",
+          "sectionId": "text-4-1-1",
+          "cards": [
+            {
+              "front": "What is a Routine?",
+              "back": "A structured sequence of behaviors you do regularly. For example, your morning routine might include showering, making coffee, and heading to work. Routines are intentional."
+            },
+            {
+              "front": "What is a Habit?",
+              "back": "An automatic action you do with little to no thought — like kicking off your shoes at the door or brushing your teeth before bed. Nearly 45% of your daily actions are habits."
+            },
+            {
+              "front": "How Do They Connect?",
+              "back": "Routines, when executed consistently over time, have the potential to become habits. Research shows it takes an average of 66 days — not 21 — for a new behavior to become automatic."
+            }
+          ]
+        },
+        {
+          "id": "callout-4-1-s",
+          "type": "callout",
+          "variant": "science",
+          "title": "Real Change Takes Time , 66 Days, Not 21",
+          "content": "<p>You may have heard it takes 21 days to form a habit. Research by Dr. Phillippa Lally, published in the <em>European Journal of Social Psychology</em>, shows it actually takes an average of <strong>66 days</strong> for a new behavior to become automatic. Growth is often invisible at first , like planting a seed, the roots grow long before the sprout breaks the surface. That's why MentaLIFE isn't about quick fixes; it's about a forever lifestyle.</p>",
+          "placement": "inline"
+        },
+        {
+          "id": "text-4-1-2",
+          "type": "text",
+          "title": "The Lifestyle Health Factor",
+          "content": "<p>According to the World Health Organization, <strong>60% of factors related to individual health and quality of life are linked to lifestyle</strong>. Harvard Health research adds that adopting healthy habits can add over a decade to your lifespan.</p><p>This means the majority of your health isn't determined by genetics or luck , it's determined by the daily choices you make. Your morning routine, your eating habits, your exercise patterns, your sleep quality, and even your media consumption all contribute to your overall well-being.</p><p>Your habits and routines should always point toward something meaningful. When your daily actions align with your values and long-term goals, even small steps compound into significant change:</p><ul><li><strong>Want to save money?</strong> → Build spending boundaries into your routine</li><li><strong>Want to improve your fitness?</strong> → Make movement part of your daily rhythm</li><li><strong>Want to learn a new skill?</strong> → Schedule consistent time to practice it</li></ul><p>The goal isn't to drift through life on autopilot; it's to live each day with intention and purpose. MentaLIFE isn't about quick fixes , it's about a forever lifestyle designed to evolve with you.</p>",
+          "sourceChunkIds": [
+            "chunk-8"
+          ],
+          "placement": "inline"
+        },
+        {
+          "id": "callout-4-1-1",
+          "type": "callout",
+          "variant": "reflection",
+          "title": "Routines and Habits Self-Assessment",
+          "content": "<p>Think about your current daily life:</p><ol><li>What routines do you follow consistently? Are they intentional or inherited?</li><li>What habits are working for you , supporting your health, mindset, and goals?</li><li>What habits are working against you , draining your energy or holding you back?</li></ol>",
+          "placement": "after-section",
+          "sectionId": "text-4-1-2"
+        },
+        {
+          "id": "kc-4-1-q1",
+          "type": "knowledge-check",
+          "title": "What is the key difference between habits and routines?",
+          "prompt": "What is the key difference between habits and routines?",
+          "questionType": "multiple-choice",
+          "options": [
+            {
+              "id": "a",
+              "text": "Habits are good behaviors; routines are bad behaviors"
+            },
+            {
+              "id": "b",
+              "text": "Habits are automatic actions; routines are structured sequences you do intentionally"
+            },
+            {
+              "id": "c",
+              "text": "Routines are daily; habits are weekly"
+            },
+            {
+              "id": "d",
+              "text": "There is no meaningful difference"
+            }
+          ],
+          "correctAnswer": "b",
+          "explanation": "Habits are automatic , you do them with little thought. Routines are structured sequences of behaviors you follow intentionally. With consistency, routines can become habits.",
+          "placement": "end-of-lesson"
+        },
+        {
+          "id": "kc-4-1-q2",
+          "type": "knowledge-check",
+          "title": "Research shows it takes approximately how long for a new beh",
+          "prompt": "Research shows it takes approximately how long for a new behavior to become automatic?",
+          "questionType": "multiple-choice",
+          "options": [
+            {
+              "id": "a",
+              "text": "7 days"
+            },
+            {
+              "id": "b",
+              "text": "21 days"
+            },
+            {
+              "id": "c",
+              "text": "66 days"
+            },
+            {
+              "id": "d",
+              "text": "6 months"
+            }
+          ],
+          "correctAnswer": "c",
+          "explanation": "Dr. Phillippa Lally's research found it takes an average of 66 days for a behavior to become automatic , not the commonly cited 21 days.",
+          "placement": "end-of-lesson"
+        },
+        {
+          "id": "kc-4-1-q3",
+          "type": "knowledge-check",
+          "title": "According to the World Health Organization, what percentage ",
+          "prompt": "According to the World Health Organization, what percentage of factors related to health and quality of life are linked to lifestyle?",
+          "questionType": "multiple-choice",
+          "options": [
+            {
+              "id": "a",
+              "text": "20%"
+            },
+            {
+              "id": "b",
+              "text": "40%"
+            },
+            {
+              "id": "c",
+              "text": "60%"
+            },
+            {
+              "id": "d",
+              "text": "80%"
+            }
+          ],
+          "correctAnswer": "c",
+          "explanation": "60% of factors related to individual health and quality of life are linked to lifestyle , meaning the majority of your health is determined by your daily choices, not genetics or luck.",
+          "placement": "end-of-lesson"
+        }
+      ],
+      "metadata": {
+        "generatedAt": "2026-04-07T00:23:47.358Z",
+        "wordCount": 459,
+        "readingLevel": "8th-10th grade"
+      }
+    },
+    {
+      "lessonId": "lesson-4-2",
+      "moduleId": "zone-4",
+      "title": "The MentaLIFE Lifestyle",
+      "type": "video",
+      "duration": 6,
+      "videoSource": "client-synthesia",
+      "videoScript": "Zone 4 — The MentaLIFE Lifestyle",
+      "continuumPosition": "87-93%",
+      "objectives": [
+        "Understand how the MentaLIFE lifestyle integrates mindset growth and stress management strategies",
+        "Identify which mindset and stress management strategies you are currently using",
+        "Recognize the connection between all three pillars in building a sustainable lifestyle"
+      ],
+      "contentBlocks": [
+        {
+          "id": "video-4-2",
+          "type": "video-embed",
+          "title": "The MentaLIFE Lifestyle",
+          "content": "<p>Watch this video to understand how mindset growth and stress management strategies come together to form the MentaLIFE lifestyle.</p>",
+          "placement": "inline"
+        },
+        {
+          "id": "text-4-2-1",
+          "type": "text",
+          "title": "Bringing the Pillars Together",
+          "content": "<p>Throughout this course, you've explored two of the three MentaLIFE pillars: <strong>Mindset Growth</strong> and <strong>Stress Management</strong>. You've learned to identify limiting beliefs, swap them for growth-focused ones, recognize self-inflicted stress, and practice deactivation techniques.</p><p>Now it's time to integrate those strategies into your daily life , not as isolated practices, but as interconnected parts of a whole lifestyle. Explore how the three pillars work together in the tabs below.</p><p>When these three pillars are aligned, you experience the three outcomes: <strong>Happiness</strong>, <strong>Healthiness</strong>, and <strong>High-Quality Living</strong>.</p>",
+          "placement": "inline"
+        },
+        {
+          "id": "int-4-2-tabs-pillars-integration",
+          "type": "river-confluence",
+          "title": "The Three Pillars Working Together",
+          "placement": "after-section",
+          "sectionId": "text-4-2-1",
+          "tabs": [
+            {
+              "label": "Mindset Growth",
+              "content": "<p>Your <strong>mindset</strong> supports your ability to see challenges as growth opportunities. Without it, stress tools eventually burn out and habits drift into autopilot.</p>"
+            },
+            {
+              "label": "Stress Management",
+              "content": "<p>Your <strong>stress tools</strong> help you stay calm, grounded, and in control. Without a growth mindset, stress management stays reactive rather than proactive.</p>"
+            },
+            {
+              "label": "Healthy Habits & Routines",
+              "content": "<p>Your <strong>routines and habits</strong> anchor both mindset and stress practices into daily action. Without purpose, habits drift — with all three pillars aligned, you experience Happiness, Healthiness, and High-Quality Living.</p>"
+            }
+          ]
+        },
+        {
+          "id": "int-4-2-accordion-mentalife-lifestyle",
+          "type": "daily-rhythm",
+          "title": "What the MentaLIFE Lifestyle Looks Like",
+          "placement": "inline",
+          "sections": [
+            {
+              "id": "int-4-2-accordion-mentalife-lifestyle-0",
+              "heading": "Starting Your Day with Intention",
+              "content": "<p>Not rushing, not reacting, but choosing how you want to show up. Your morning sets the tone for everything that follows.</p>"
+            },
+            {
+              "id": "int-4-2-accordion-mentalife-lifestyle-1",
+              "heading": "Catching Negative Thoughts in Real Time",
+              "content": "<p>Using the Mindset Swap to reframe limiting beliefs as they appear. Don't let negative thoughts pass unchecked — acknowledge them and choose differently.</p>"
+            },
+            {
+              "id": "int-4-2-accordion-mentalife-lifestyle-2",
+              "heading": "Managing Stress Proactively",
+              "content": "<p>Practicing foundational tools daily rather than waiting for a crisis. Use boundaries, sleep hygiene, and self-awareness as preventative measures.</p>"
+            },
+            {
+              "id": "int-4-2-accordion-mentalife-lifestyle-3",
+              "heading": "Building Routines That Serve Your Well-Being",
+              "content": "<p>Morning, midday, and evening anchors that protect your energy. These routines become the structure that holds your MentaLIFE together.</p>"
+            },
+            {
+              "id": "int-4-2-accordion-mentalife-lifestyle-4",
+              "heading": "Reflecting Regularly",
+              "content": "<p>Checking in with yourself to assess alignment between your actions and your values. Reflection ensures you're moving forward, not just moving.</p>"
+            }
+          ]
+        },
+        {
+          "id": "callout-4-2-k",
+          "type": "callout",
+          "variant": "key-insight",
+          "title": "Integration Is the Key",
+          "content": "<p>A strong mindset without stress tools will eventually burn out. Great stress management without a growth mindset will stay reactive. And habits without purpose will drift into autopilot. The MentaLIFE lifestyle requires all three , working together, daily.</p>",
+          "placement": "inline"
+        },
+        {
+          "id": "callout-4-2-1",
+          "type": "callout",
+          "variant": "reflection",
+          "title": "Current Strategies Assessment",
+          "content": "<p>Take stock of where you are right now:</p><ol><li>What <strong>mindset growth strategies</strong> are you currently practicing? (affirmations, thought challenging, Mindset Swap, accountability)</li><li>What <strong>stress management strategies</strong> are you currently using? (boundaries, sleep, deactivation techniques, media diet)</li><li>Which strategies feel natural, and which still need intentional effort?</li><li>What's one area where you could better integrate your mindset and stress tools into your daily routine?</li></ol>",
+          "placement": "after-section",
+          "sectionId": "text-4-2-2"
+        },
+        {
+          "id": "kc-4-2-q1",
+          "type": "knowledge-check",
+          "title": "The MentaLIFE lifestyle is best described as:",
+          "prompt": "The MentaLIFE lifestyle is best described as:",
+          "questionType": "multiple-choice",
+          "options": [
+            {
+              "id": "a",
+              "text": "Following a strict daily schedule with no flexibility"
+            },
+            {
+              "id": "b",
+              "text": "The integration of mindset growth, stress management, and healthy habits working together daily"
+            },
+            {
+              "id": "c",
+              "text": "Focusing exclusively on stress management above all else"
+            },
+            {
+              "id": "d",
+              "text": "A one-time transformation that happens after completing the course"
+            }
+          ],
+          "correctAnswer": "b",
+          "explanation": "The MentaLIFE lifestyle happens when your mindset, stress tools, and daily habits work together , not as isolated practices, but as interconnected parts of a whole.",
+          "placement": "end-of-lesson"
+        },
+        {
+          "id": "kc-4-2-q2",
+          "type": "knowledge-check",
+          "title": "What happens if you have strong stress management tools but ",
+          "prompt": "What happens if you have strong stress management tools but no growth mindset?",
+          "questionType": "multiple-choice",
+          "options": [
+            {
+              "id": "a",
+              "text": "You'll achieve all three MentaLIFE outcomes"
+            },
+            {
+              "id": "b",
+              "text": "Your stress management will remain reactive rather than proactive"
+            },
+            {
+              "id": "c",
+              "text": "Nothing , stress management alone is sufficient"
+            },
+            {
+              "id": "d",
+              "text": "Your mindset will automatically improve from managing stress"
+            }
+          ],
+          "correctAnswer": "b",
+          "explanation": "Great stress management without a growth mindset stays reactive. You can calm down in the moment, but without the mindset shift, you'll keep encountering the same stress triggers.",
+          "placement": "end-of-lesson"
+        },
+        {
+          "id": "kc-4-2-q3",
+          "type": "knowledge-check",
+          "title": "Which of the following is an example of living the MentaLIFE",
+          "prompt": "Which of the following is an example of living the MentaLIFE lifestyle?",
+          "questionType": "multiple-choice",
+          "options": [
+            {
+              "id": "a",
+              "text": "Catching a negative thought in real time and using the Mindset Swap to reframe it"
+            },
+            {
+              "id": "b",
+              "text": "Waiting until you feel overwhelmed to start practicing wellness"
+            },
+            {
+              "id": "c",
+              "text": "Focusing on only one pillar and ignoring the other two"
+            },
+            {
+              "id": "d",
+              "text": "Setting goals without taking daily action toward them"
+            }
+          ],
+          "correctAnswer": "a",
+          "explanation": "Catching negative thoughts in real time and reframing them is the MentaLIFE lifestyle in action , proactive, integrated, and intentional.",
+          "placement": "end-of-lesson"
+        }
+      ],
+      "metadata": {
+        "generatedAt": "2026-04-07T00:23:47.367Z",
+        "wordCount": 347,
+        "readingLevel": "8th-10th grade"
+      }
+    },
+    {
+      "lessonId": "lesson-4-3",
+      "moduleId": "zone-4",
+      "title": "Routines and Habits that Build Lifestyle",
+      "type": "video",
+      "duration": 8,
+      "videoSource": "client-synthesia",
+      "videoScript": "Zone 4 — Routines and Habits that Build Lifestyle",
+      "continuumPosition": "93-100%",
+      "objectives": [
+        "Explore MentaLIFE-aligned morning and evening routines",
+        "Identify daily self-care practices across physical, mental, social, and spiritual dimensions",
+        "Build a personalized Daily Intentional Living plan using the MentaLIFE checklist",
+        "Commit to patience, discipline, consistency, and self-accountability"
+      ],
+      "contentBlocks": [
+        {
+          "id": "video-4-3",
+          "type": "video-embed",
+          "title": "Routines and Habits that Build Lifestyle",
+          "content": "<p>Watch this video to explore specific routines and habits that support a MentaLIFE lifestyle , and build your personalized wellness plan.</p>",
+          "placement": "inline"
+        },
+        {
+          "id": "int-4-3-1",
+          "type": "interactive",
+          "component": "accordion",
+          "title": "MentaLIFE-Aligned Routines",
+          "content": "<p>You don't need to do everything listed below. Start small. Build consistently. Focus on what works best for your current season of life.</p>",
+          "items": [
+            {
+              "title": "Morning Routine , Mental Clarity & Energy Boost",
+              "content": "<p>Start your day with intention and empowerment:</p><ul><li>Wake up early enough to avoid rushing</li><li>Let in natural light</li><li>Practice mindfulness, prayer, or gratitude</li><li>Drink a glass of water</li><li>Move: stretch, do yoga, or light exercise</li><li>Take a warm shower</li><li>Eat a nourishing breakfast (low sugar, high fiber)</li><li>Review your schedule and goals</li><li>Listen to uplifting or motivational content</li></ul>"
+            },
+            {
+              "title": "Evening Routine , Wind-Down & Recovery",
+              "content": "<p>Set the tone for restful, restorative sleep:</p><ul><li>Unplug from screens 30–60 minutes before bed</li><li>Eat dinner 2–3 hours before going to sleep</li><li>Stay lightly hydrated</li><li>Do light stretching or foam rolling</li><li>Prepare for the next day , set out clothes, prep meals, review your calendar</li><li>Journal or reflect on the day</li><li>Express gratitude or pray</li><li>Wind down with a calming ritual: candles, music, or a hot shower</li><li>Maintain a calm, quiet, and dark sleep environment</li></ul>"
+            },
+            {
+              "title": "Scheduled High-Quality Activities",
+              "content": "<p>These are moments you intentionally create for joy, healing, or fulfillment:</p><ul><li>Gym or fitness sessions</li><li>Self-care (massages, facials, mani/pedis)</li><li>Date nights or family time</li><li>Cooking nourishing meals</li><li>Hobbies: art, music, gardening, etc.</li></ul><p><strong>Make sure these activities are scheduled</strong> , don't leave them for \"when I have time.\"</p>"
+            },
+            {
+              "title": "Meal Planning & Nutrition",
+              "content": "<p>Benefits of intentional meal planning:</p><ul><li>Saves time and money</li><li>Reduces stress and prevents impulse eating</li><li>Supports fitness and health goals</li><li>Improves nutrition and boosts energy</li><li>Encourages family connection through shared meals</li><li>Increases mindfulness and intentionality in eating</li></ul>"
+            },
+            {
+              "title": "Daily Self-Care Practices",
+              "content": "<p><strong>Physical Self-Care:</strong> Hydrate consistently. Eat whole, nourishing foods. Move your body regularly. Sleep 7–9 hours each night. Take movement breaks throughout the day.</p><p><strong>Mental/Emotional Self-Care:</strong> Journal your thoughts and feelings. Maintain healthy boundaries. Limit negative content. Meditate or practice mindfulness. Read or listen to inspiring content.</p><p><strong>Social Self-Care:</strong> Connect with loved ones. Say \"no\" when necessary. Surround yourself with positive influences. Schedule time for shared joy.</p><p><strong>Spiritual Self-Care:</strong> Reflect on your values and purpose. Spend time in nature. Pray or meditate.</p><p><strong>Fun & Relaxation:</strong> Engage in hobbies you enjoy. Watch something uplifting. Listen to music that brings peace or joy. Take a relaxing bath.</p>"
+            }
+          ],
+          "sourceChunkIds": [
+            "chunk-8",
+            "chunk-9"
+          ],
+          "placement": "after-section",
+          "sectionId": "text-4-3-1"
+        },
+        {
+          "id": "int-4-3-2",
+          "type": "interactive",
+          "component": "tabs",
+          "title": "The Three Outcomes in Daily Practice",
+          "content": "<p>How your daily habits and routines support each MentaLIFE outcome:</p>",
+          "items": [
+            {
+              "title": "Happiness",
+              "content": "<p><strong>Happiness: Built Through Intention</strong></p><p>Happiness isn't luck , it's a daily choice. Small habits such as practicing gratitude, prayer, journaling, or taking mindful breaks help anchor joy in your routine. Over time, these intentional actions reshape your mindset, making joy more accessible , even during hard seasons.</p>"
+            },
+            {
+              "title": "Healthiness",
+              "content": "<p><strong>Healthiness: Sustained by Consistency</strong></p><p>Big gestures don't create health; it's built through daily discipline. Drinking water, exercising, getting enough sleep, and setting boundaries are habits that protect your energy and overall well-being. When repeated, they become a part of your lifestyle.</p>"
+            },
+            {
+              "title": "High-Quality Living",
+              "content": "<p><strong>High-Quality Living: Designed Through Alignment</strong></p><p>High-quality living occurs when your routines align with your values. Whether it's scheduling quiet time, family dinners, or simply taking a moment to breathe , your habits should align with what matters most to you. That's how you create a life that feels as good as it looks.</p>"
+            }
+          ],
+          "sourceChunkIds": [
+            "chunk-9"
+          ],
+          "placement": "after-section",
+          "sectionId": "text-4-3-1"
+        },
+        {
+          "id": "int-4-3-3",
+          "type": "interactive",
+          "component": "toolkit-scenario",
+          "toolkitCategory": "daily-planner",
+          "toolkitLabel": "Add to my daily plan",
+          "toolkitPrompt": "Design your personalized daily plan. Explore each commitment below, then <strong>select the ones you'll practice this week</strong> — one from each category is a great start.",
+          "toolkitSummaryTitle": "My Daily Plan",
+          "title": "Daily Intentional Living Planner",
+          "items": [
+            {
+              "title": "Morning Positive Thought",
+              "content": "<p>Start the day with one positive thought, affirmation, or gratitude statement. Before your feet hit the floor, give your mind something good to work with.</p>",
+              "category": "Mindset Habits"
+            },
+            {
+              "title": "Midday Alignment Pause",
+              "content": "<p>Pause once during the day to reflect: Am I thinking in alignment with the life I want to live? This quick check-in keeps your mindset intentional, not reactive.</p>",
+              "category": "Mindset Habits"
+            },
+            {
+              "title": "End-of-Day Win",
+              "content": "<p>End the day by acknowledging one win, no matter how small. Celebrating progress — even tiny steps — rewires your brain to focus on growth rather than gaps.</p>",
+              "category": "Mindset Habits"
+            },
+            {
+              "title": "Mindful Breath Break",
+              "content": "<p>Take at least one mindful breath break — 3 to 5 minutes of deep breathing or grounding. This interrupts the stress cycle and restores your calm baseline.</p>",
+              "category": "Stress Tools"
+            },
+            {
+              "title": "Limit Negativity Input",
+              "content": "<p>Limit unnecessary negativity — social media, draining conversations, or toxic inputs. Protect your mental space the way you'd protect your home.</p>",
+              "category": "Stress Tools"
+            },
+            {
+              "title": "Quick Reset When Overwhelmed",
+              "content": "<p>Practice a quick reset when you feel overwhelmed — walk, stretch, journal, or do a sensory reset. You don't need an hour; sometimes 2 minutes changes everything.</p>",
+              "category": "Stress Tools"
+            },
+            {
+              "title": "Morning Intentional Action",
+              "content": "<p>Begin each morning with an intentional action — hydration, movement, prayer, or reflection. How you start your day sets the tone for everything that follows.</p>",
+              "category": "Routine Anchors"
+            },
+            {
+              "title": "Midday Recharge Break",
+              "content": "<p>Take a short midday break to recharge — step outside, stretch, or check in with your body. This prevents afternoon burnout and keeps your energy steady.</p>",
+              "category": "Routine Anchors"
+            },
+            {
+              "title": "Evening Wind-Down Ritual",
+              "content": "<p>Wind down with a consistent evening routine that signals rest — unplug from screens, prepare for tomorrow, practice gratitude. Quality sleep starts before bedtime.</p>",
+              "category": "Routine Anchors"
+            }
+          ],
+          "sourceChunkIds": [
+            "chunk-9"
+          ],
+          "placement": "after-section",
+          "sectionId": "text-4-3-1"
+        },
+        {
+          "id": "text-4-3-1",
+          "type": "text",
+          "title": "Knowing Is Only Half the Battle",
+          "content": "<p>By now, you've received a lot of valuable information and truths that can absolutely change your life. But let's challenge something we've all heard before:</p><p><em>\"When you know better, you do better.\"</em></p><p>As powerful as that sounds, it's only half true. Knowing isn't the hard part; <strong>doing is</strong>. You now understand the value of a strong mindset. You know how to manage stress. You know how habits shape your life.</p><p>But information alone doesn't create change. It takes:</p><ul><li><strong>Patience</strong></li><li><strong>Discipline</strong></li><li><strong>Consistency</strong></li><li><strong>Self-accountability</strong></li></ul><p>And for many of us, it also takes support. That's why community is so important. Find your people , a person, a circle, a tribe who believes in the same growth you're chasing. Let them encourage you, challenge you, and walk with you. You don't have to do this alone, and honestly, you shouldn't.</p>",
+          "sourceChunkIds": [
+            "chunk-9"
+          ],
+          "placement": "inline"
+        },
+        {
+          "id": "callout-4-3-k",
+          "type": "callout",
+          "variant": "key-insight",
+          "title": "What It Means to Live Intentionally",
+          "content": "<p>When you nurture a positive mindset, manage stress effectively, and establish empowering habits and routines, you create a lifestyle that feels deeply fulfilling from within. Over time, this alignment allows you to live as someone who is mentally focused, emotionally steady, physically energized, and deeply connected to purpose.</p>",
+          "placement": "inline"
+        },
+        {
+          "id": "callout-4-3-1",
+          "type": "callout",
+          "variant": "reflection",
+          "title": "Your Wellness Lifestyle Plan",
+          "content": "<p>Identify strategies, tools, and practices that support your Mindset Growth and Stress Management, and include routines and habits that will help you create a <strong>WELLNESS LIFESTYLE</strong>:</p><ol><li>What mindset tools will you practice daily?</li><li>What stress management strategies will you keep in your toolkit?</li><li>What routines will anchor your mornings, middays, and evenings?</li><li>What habits do you want to build over the next 66 days?</li></ol>",
+          "placement": "after-section",
+          "sectionId": "text-4-3-1"
+        },
+        {
+          "id": "callout-4-3-2",
+          "type": "callout",
+          "variant": "quote",
+          "title": "You Are Capable of Incredible Transformation",
+          "content": "<p>One routine. One habit. One intentional choice at a time. This is MentaLIFE in action.</p>",
+          "placement": "inline"
+        },
+        {
+          "id": "callout-4-3-3",
+          "type": "callout",
+          "variant": "reflection",
+          "title": "Course Self-Reflection",
+          "content": "<p>This is your final reflection. Answer honestly and save your response:</p><ol><li>What is one intentional action you'll take this week?</li><li>What routine will you build first?</li><li>Who will you share this commitment with?</li><li>Where are you on the mental health continuum now , and where do you want to be in 66 days?</li></ol>",
+          "placement": "after-section",
+          "sectionId": "text-4-3-1"
+        },
+        {
+          "id": "journal-cta-4-3",
+          "type": "journal-cta",
+          "title": "Review Your Wellness Journal",
+          "content": "<p>Throughout this course, you’ve been building your personal MentaLIFE plan — identifying mindset tools, stress patterns, prevention strategies, quick resets, and daily routines. Your <strong>Wellness Journal</strong> brings it all together: every reflection you’ve written and every tool you’ve chosen.</p>",
+          "placement": "after-section",
+          "sectionId": "callout-4-3-3"
+        },
+        {
+          "id": "wc-4-3",
+          "type": "wellness-check",
+          "title": "Zone 4 Wellness Check",
+          "questions": [
+            {
+              "id": "wc-4-3-q1",
+              "stem": "MentaLIFE teaches that nearly 45% of your daily actions are habits , things you do on autopilot. Research shows it takes an average of 66 days, not 21, for a new behavior to become automatic. What does this tell you about building a MentaLIFE?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "If a habit doesn't feel natural after three weeks, it's not meant for you"
+                },
+                {
+                  "id": "b",
+                  "text": "Real change takes patience and consistency , like planting a seed, the roots grow long before the sprout breaks the surface"
+                },
+                {
+                  "id": "c",
+                  "text": "You should try to change all your habits at the same time to maximize results"
+                },
+                {
+                  "id": "d",
+                  "text": "Habits aren't worth building because they take too long to form"
+                }
+              ],
+              "correctAnswer": "b",
+              "explanation": "Dr. Phillippa Lally's research shows it takes an average of 66 days for a new behavior to become automatic. Growth is often invisible at first. That's why MentaLIFE isn't about quick fixes , it's about a forever lifestyle. Be patient with yourself. The work is working, even when you can't see it yet."
+            },
+            {
+              "id": "wc-4-3-q2",
+              "stem": "What is the key difference between a habit and a routine?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "Routines are unhealthy patterns; habits are always positive"
+                },
+                {
+                  "id": "b",
+                  "text": "Habits are automatic actions you do with little thought; routines are structured sequences of behaviors you do regularly , and routines can become habits over time"
+                },
+                {
+                  "id": "c",
+                  "text": "There is no real difference , they are the same thing"
+                },
+                {
+                  "id": "d",
+                  "text": "Habits are chosen intentionally; routines happen by accident"
+                }
+              ],
+              "correctAnswer": "b",
+              "explanation": "Habits are automatic , like kicking off your shoes at the door. Routines are structured sequences you follow regularly , like your morning routine. The connection is powerful: when you execute routines consistently over time, they have the potential to become habits. That's how you design your lifestyle instead of drifting through it."
+            },
+            {
+              "id": "wc-4-3-q3",
+              "stem": "The MentaLIFE Lifestyle integrates all three pillars. Which of the following best describes why integration matters?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "You only need one strong pillar , the others will follow naturally"
+                },
+                {
+                  "id": "b",
+                  "text": "A strong mindset without stress tools will eventually burn out, and great stress management without a growth mindset will stay reactive , all three pillars must work together daily"
+                },
+                {
+                  "id": "c",
+                  "text": "Integration means doing everything perfectly every day without any flexibility"
+                },
+                {
+                  "id": "d",
+                  "text": "You should master one pillar completely before starting on the next"
+                }
+              ],
+              "correctAnswer": "b",
+              "explanation": "The MentaLIFE lifestyle requires all three pillars working together. A strong mindset alone can burn out without stress tools. Good stress management without growth mindset stays reactive. And habits without purpose drift into autopilot. Integration , daily, imperfect, consistent , is what creates lasting transformation."
+            },
+            {
+              "id": "wc-4-3-q4",
+              "stem": "Kelvin says, 'Knowing is only half the battle.' You now understand mindset growth, stress management, and healthy habits. What does MentaLIFE say is needed to turn that knowledge into transformation?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "More information, more courses, and more research before taking any action"
+                },
+                {
+                  "id": "b",
+                  "text": "Patience, discipline, consistency, self-accountability , and a supportive community to walk with you"
+                },
+                {
+                  "id": "c",
+                  "text": "Willpower alone , if you want it badly enough, nothing else matters"
+                },
+                {
+                  "id": "d",
+                  "text": "Waiting for the right moment when life calms down and conditions are perfect"
+                }
+              ],
+              "correctAnswer": "b",
+              "explanation": "Information alone doesn't create change. Transformation requires patience, discipline, consistency, and self-accountability. And you don't have to do it alone , find your people, a person or circle who believes in the growth you're chasing. Let them encourage you, challenge you, and walk with you."
+            },
+            {
+              "id": "wc-4-3-q5",
+              "stem": "You want to build a healthier morning routine but keep hitting the snooze button. Using MentaLIFE principles, what's the best approach?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "Set 10 alarms to force yourself awake"
+                },
+                {
+                  "id": "b",
+                  "text": "Start small , commit to waking up 15 minutes earlier, use that time for one intentional action like hydration or gratitude, and build consistency over 66 days"
+                },
+                {
+                  "id": "c",
+                  "text": "Accept that you're just not a morning person and focus on evenings instead"
+                },
+                {
+                  "id": "d",
+                  "text": "Overhaul your entire daily schedule immediately to create the perfect routine"
+                }
+              ],
+              "correctAnswer": "b",
+              "explanation": "MentaLIFE is about starting small and building consistently. Rather than overhauling everything at once, begin with one intentional change , wake up 15 minutes earlier for hydration, movement, or gratitude. Over 66 days of consistency, that small routine can become an automatic habit that anchors your entire day."
+            },
+            {
+              "id": "wc-4-3-q6",
+              "stem": "According to the World Health Organization, what percentage of factors related to individual health and quality of life are linked to lifestyle?",
+              "type": "multiple-choice",
+              "options": [
+                {
+                  "id": "a",
+                  "text": "25% , most health is genetic"
+                },
+                {
+                  "id": "b",
+                  "text": "40% , about half is lifestyle, half is luck"
+                },
+                {
+                  "id": "c",
+                  "text": "60% , the majority of your health is shaped by your daily habits and choices"
+                },
+                {
+                  "id": "d",
+                  "text": "90% , almost everything about health is within your control"
+                }
+              ],
+              "correctAnswer": "c",
+              "explanation": "The World Health Organization reports that 60% of factors related to individual health and quality of life are linked to lifestyle. That means the majority of your well-being isn't about genetics or luck — it's about the daily choices you make. That's why building intentional routines and habits is so powerful."
+            }
+          ],
+          "placement": "end-of-lesson"
+        },
+        {
+          "id": "kc-4-3-q1",
+          "type": "knowledge-check",
+          "title": "What does \"daily intentional living\" mean within MentaLIFE?",
+          "prompt": "What does \"daily intentional living\" mean within MentaLIFE?",
+          "questionType": "multiple-choice",
+          "options": [
+            {
+              "id": "a",
+              "text": "Planning every minute of your day with no room for spontaneity"
+            },
+            {
+              "id": "b",
+              "text": "Choosing how you want to show up each day , aligning your daily actions with your values and goals"
+            },
+            {
+              "id": "c",
+              "text": "Eliminating all bad habits immediately"
+            },
+            {
+              "id": "d",
+              "text": "Following someone else's wellness routine exactly"
+            }
+          ],
+          "correctAnswer": "b",
+          "explanation": "Daily intentional living means choosing how you show up , aligning actions with values. It's about purpose and alignment, not rigid scheduling or copying others.",
+          "placement": "end-of-lesson"
+        },
+        {
+          "id": "kc-4-3-q2",
+          "type": "knowledge-check",
+          "title": "MentaLIFE emphasizes that \"knowing is only half the battle.\"",
+          "prompt": "MentaLIFE emphasizes that \"knowing is only half the battle.\" What does this mean?",
+          "questionType": "multiple-choice",
+          "options": [
+            {
+              "id": "a",
+              "text": "You only need to understand 50% of the concepts"
+            },
+            {
+              "id": "b",
+              "text": "Knowledge without consistent action and daily practice will not create lasting change"
+            },
+            {
+              "id": "c",
+              "text": "The other half is sharing what you learned with others"
+            },
+            {
+              "id": "d",
+              "text": "Half the course content is theoretical, half is practical"
+            }
+          ],
+          "correctAnswer": "b",
+          "explanation": "Understanding the concepts is important, but lasting change requires consistent daily action. Knowledge must be applied through routines, habits, and intentional practice.",
+          "placement": "end-of-lesson"
+        },
+        {
+          "id": "kc-4-3-q3",
+          "type": "knowledge-check",
+          "title": "Which four qualities does MentaLIFE say are essential for bu",
+          "prompt": "Which four qualities does MentaLIFE say are essential for building a wellness lifestyle?",
+          "questionType": "multiple-choice",
+          "options": [
+            {
+              "id": "a",
+              "text": "Speed, perfection, competition, and intensity"
+            },
+            {
+              "id": "b",
+              "text": "Patience, discipline, consistency, and self-accountability"
+            },
+            {
+              "id": "c",
+              "text": "Intelligence, education, wealth, and connections"
+            },
+            {
+              "id": "d",
+              "text": "Relaxation, avoidance, comfort, and routine"
+            }
+          ],
+          "correctAnswer": "b",
+          "explanation": "Patience, discipline, consistency, and self-accountability are the four qualities that sustain the MentaLIFE lifestyle. Change takes time (66 days!) and requires ongoing commitment.",
+          "placement": "end-of-lesson"
+        }
+      ],
+      "metadata": {
+        "generatedAt": "2026-04-07T00:23:47.367Z",
+        "wordCount": 378,
+        "readingLevel": "8th-10th grade"
+      }
+    }
+  ]
+}
