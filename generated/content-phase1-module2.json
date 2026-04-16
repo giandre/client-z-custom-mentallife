@@ -25,11 +25,18 @@
           "placement": "inline"
         },
         {
+          "id": "text-3-1-1",
+          "type": "text",
+          "title": "The Stress You Create",
+          "content": "<p>In Zone 1, you learned that stress comes from three sources: external, internal, and self-inflicted. Now it's time to focus on the one you have the most power to change: <strong>self-inflicted stress</strong>.</p><p>Self-inflicted stress is the kind that slowly builds over time, often disguised as ambition, responsibility, or even kindness. It includes the patterns below.</p>",
+          "placement": "inline"
+        },
+        {
           "id": "int-3-1-accordion-stress-patterns",
           "type": "warning-signs",
           "title": "Self-Inflicted Stress Patterns",
           "placement": "after-section",
-          "sectionId": "video-3-1",
+          "sectionId": "text-3-1-1",
           "sections": [
             {
               "id": "int-3-1-accordion-stress-patterns-0",
@@ -62,7 +69,7 @@
           "id": "text-3-1-2",
           "type": "text",
           "title": "Breaking the Cycle",
-          "content": "<p>Once you've identified patterns of self-inflicted stress, the next step is to replace them with healthier, more intentional habits. Flip through the cards below to see how each pattern can be transformed into a positive practice.</p>",
+          "content": "<p>The good news? These patterns can be changed once you see them. Awareness is always the first step.</p><p>Once you've identified patterns of self-inflicted stress, the next step is to replace them with healthier, more intentional habits. Flip through the cards below to see how each pattern can be transformed into a positive practice.</p>",
           "sourceChunkIds": [
             "chunk-6"
           ],
